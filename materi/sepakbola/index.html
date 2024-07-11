@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../../all.css">
+    <link rel="stylesheet" href="../style.css">
+    <title>Sepak Bola</title>
+</head>
+<body>
+    <div class="home-screen w-screen min-h-screen bg-violet-200 pt-10 pb-20 relative">
+        <div class="px-5">
+            <div class="bg-white shadow-lg rounded-xl p-5 mb-5">
+                <div class="py-3 flex justify-center items-center relative text-center w-full">
+                    <p class="text-2xl font-bold absolute left-0" onclick="goBack()"> <-</p>
+                    <p class="text-2xl font-bold">Judul Materi</p>
+                </div>
+                <div class="py-3 flex">
+                    <div>
+                        <p class="font-bold">Pengertian</p>
+                        <p class="text-sm text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a sapien ut arcu malesuada porta. Nullam imperdiet viverra nisl id vulputate. Aliquam erat volutpat. </p>
+                    </div>
+                </div>
+            </div>
+            <a href="./materi1/index.html" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                <img class="w-5 mr-5" src="../../assets/idea.png" alt="">
+                <p>Materi 1</p>
+                <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+            </a>
+            <a href="./materi1/index.html" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                <img class="w-5 mr-5" src="../../assets/idea.png" alt="">
+                <p>Materi 2</p>
+                <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+            </a>
+            <a href="./materi1/index.html" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                <img class="w-5 mr-5" src="../../assets/idea.png" alt="">
+                <p>Materi 3</p>
+                <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+            </a>
+            <a href="./quizgform/index.html" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                <img class="w-5 mr-5" src="../../assets/quiz.png" alt="">
+                <p>Quiz Google Form</p>
+                <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+            </a>
+        </div>
+    </div>
+    <script>
+        function goBack() {
+            // Melakukan navigasi mundur satu langkah dalam riwayat peramban
+            window.history.back();
+        }
+    </script>
+</body>
+</html>

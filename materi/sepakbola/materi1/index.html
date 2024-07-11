@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../../../all.css">
+    <title>Materi 2</title>
+</head>
+<body>
+    <div class="w-screen min-h-screen bg-violet-200 pb-20 relative">
+        <video class="w-full" controls muted>
+            <source src="../materi1.mp4" type="video/mp4">
+            Your browser does not support HTML video.
+        </video>
+        <p class="font-bold text-2xl absolute top-2 left-2" onclick="goBack()"> <-</p>
+        <div class="p-5">
+            <div class="bg-white shadow-lg rounded-lg p-3 text-center relative mb-5">
+                <img class="absolute left-3 h-2/3 top-0" src="../../../assets/kick.png" alt="">
+                <p class="font-bold text-xl">Judul Materi</p>
+                <img class="absolute right-3 h-2/3 top-0" src="../../../assets/kick.png" alt="">
+            </div>
+            <div>
+                <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a sapien ut arcu malesuada porta. Nullam imperdiet viverra nisl id vulputate. Aliquam erat volutpat. </p>
+            </div>
+        </div>
+        
+    </div>
+    <script>
+        function goBack() {
+            // Melakukan navigasi mundur satu langkah dalam riwayat peramban
+            window.history.back();
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../../all.css">
+    <link rel="stylesheet" href="../style.css">
+    <title>Referensi</title>
+</head>
+<body>
+    <div class="w-screen min-h-screen bg-violet-200 pb-20 relative pt-10">
+        <div class="px-5">
+            <div class="bg-white rounded-xl p-5 mb-5 relative text-center">
+                <p class="font-bold absolute" onclick="goBack()"> <-</p>
+                <p class="font-bold">Referensi</p>
+            </div>
+            <div class="bg-white rounded-xl py-3 px-5 flex items-center mb-2">
+                <img class="w-8 mr-5" src="../../assets/citation.png" alt="">
+                <p class="">Referensi 1</p>
+            </div>
+            
+            <div class="bg-white rounded-xl py-3 px-5 flex items-center mb-2">
+                <img class="w-8 mr-5" src="../../assets/citation.png" alt="">
+                <p class="">Referensi 2</p>
+            </div>
+            
+            <div class="bg-white rounded-xl py-3 px-5 flex items-center mb-2">
+                <img class="w-8 mr-5" src="../../assets/citation.png" alt="">
+                <p class="">Referensi 3</p>
+            </div>
+        </div>
+    </div>
+    <script>
+        function goBack() {
+            // Melakukan navigasi mundur satu langkah dalam riwayat peramban
+            window.history.back();
+        }
+    </script>
+</body>
+</html>
