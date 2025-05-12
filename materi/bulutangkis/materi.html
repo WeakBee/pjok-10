@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../../../all.css">
+    <title>Semua Materi</title>
+</head>
+<body>
+    <div id="materi" class="w-screen min-h-screen bg-violet-200 pb-20 relative">
+        <iframe id="video" src="" class="w-full" height="250"  controls allowfullscreen></iframe>
+        <p class="font-bold text-2xl absolute top-2 left-2 text-white" onclick="goBack()"> <-</p>
+        <div class="p-5">
+            <div class="bg-white shadow-lg rounded-lg p-3 text-center relative mb-5">
+                <img class="absolute left-0 h-1/2 bottom-0" src="../../../assets/sports.png" alt="">
+                <p id="nama-materi" class="font-bold text-xl">-</p>
+                <img class="absolute right-0 h-1/2 bottom-0" src="../../../assets/sports.png" alt="">
+            </div>
+            <div>
+                <div id="pengertian-box" class="text-justify text-sm">                    
+                </div>
+                <div id="cara_melakukan_box">
+                    <p class="font-bold">Cara melakukannya:</p>
+                    <ol id="list-cara" class="list-decimal list-inside text-sm text-justify">
+                    </ol>
+                </div>
+                <div id="jenis_gerakan_box">
+                    <p class="font-bold">Jenis Gerakan:</p>
+                    <ol id="list-jenis" class="list-decimal list-inside text-sm text-justify">
+                    </ol>
+                </div>
+            </div>
+        </div>
+        
+    </div><script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function goBack() {
+            // Melakukan navigasi mundur satu langkah dalam riwayat peramban
+            window.history.back();
+        }
+        // Fungsi ambil parameter ID dari URL
+        function getQueryParam(name) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(name);
+        }
+
+        function toTitleCase(str) {
+            return str.replace(/\w\S*/g, function(txt) {
+                return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+            });
+        }
+
+        $(document).ready(function() {
+            const id = getQueryParam('id');
+
+            $.getJSON('./materi.json', function(data) {
+                const materi = data.find(item => item.id == id);
+                if (!materi) {
+                    $('#materi').html('<p>Materi tidak ditemukan</p>');
+                    return;
+                }
+
+                $('#nama-materi').text(toTitleCase(materi.nama_materi));
+                $('#video').attr('src', materi.link_video_gdrive);
+                if(materi.pengertian){
+                    $('#pengertian-box').append(`<p>${materi.pengertian}</p>`);
+                }
+                if(materi.cara_melakukan){
+                    $('#cara_melakukan_box').show();
+                    materi.cara_melakukan.forEach(function(item) {
+                        $('#list-cara').append(`<li>${item}</li>`);
+                    });
+                } else {
+                    $('#cara_melakukan_box').hide();
+                }
+                if(materi.jenis_gerakan){
+                    $('#jenis_gerakan_box').show();
+                    materi.jenis_gerakan.forEach(function(item) {
+                        $('#list-jenis').append(`<li>${item}</li>`);
+                    });
+                } else {
+                    $('#jenis_gerakan_box').hide();
+                }
+            });
+        });
+    </script>
+</body>
+</html>
