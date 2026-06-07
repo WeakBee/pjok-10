@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../../all.css">
+    <link rel="stylesheet" href="../style.css">
+    <title>PJOK - 10</title>
+</head>
+<body>
+    <div class="home-screen w-screen min-h-screen bg-violet-200 pt-10 pb-20 relative">
+        <div class="px-5">
+            <div class="bg-white shadow-lg rounded-xl p-5 mb-5">
+                <div class="py-3 flex justify-center items-center relative text-center w-full">
+                    <p class="text-2xl font-bold absolute left-0" onclick="goBack()"> <-</p>
+                    <p class="text-2xl font-bold">Softball</p>
+                </div>
+                <div class="py-3 flex text-lg">
+                    <div>
+                        <p class="font-bold">Pengertian</p>
+                        <p class="text-sm text-justify">
+                            Softball adalah permainan bola yang dimainkan oleh dua regu yang masing-masing terdiri atas 9 orang pemain. Permainan ini dimainkan di lapangan berbentuk diamond dengan home base sebagai tujuan utama. Pemain bertugas untuk memukul bola dan berlari ke base-base yang tersedia. Tujuan dari permainan ini adalah untuk mencetak poin dengan berhasil melewati base-base dan kembali ke home base.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div id="list-materi">
+            </div>
+            <a href="./quizgform/index.html" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                <img class="w-5 mr-5" src="../../assets/quiz.png" alt="">
+                <p>Penilaian Kognitif</p>
+                <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+            </a>
+            <a href="./praproyek/index.html" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                <img class="w-5 mr-5" src="../../assets/quiz.png" alt="">
+                <p>Praproyek</p>
+                <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+            </a>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function toTitleCase(str) {
+            return str.replace(/\w\S*/g, function(txt) {
+                return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+            });
+        }
+
+        $(document).ready(function() {
+            let namamateri = "";
+            $.getJSON('./materi.json', function(data) {
+                data.forEach(function(item) {
+                    namamateri = toTitleCase(item.nama_materi);
+                    $('#list-materi').append(`
+                    <a href="./materi.html?id=${item.id}" class="bg-white shadow-lg rounded-xl p-5 flex items-center relative mb-3">
+                        <img class="w-5 mr-5" src="../../assets/idea.png" alt="">
+                        <p>${namamateri}</p>
+                        <p class="text-2xl font-bold absolute right-5" onclick="goBack()"> <-</p>
+                    </a>
+                    `);
+                });
+            });
+        });
+        function goBack() {
+            // Melakukan navigasi mundur satu langkah dalam riwayat peramban
+            window.history.back();
+        }
+    </script>
+</body>
+</html>
