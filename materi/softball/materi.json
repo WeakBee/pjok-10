@@ -2,92 +2,258 @@
   {
     "id": 1,
     "link_video_gdrive": "https://drive.google.com/file/d/1O6C1lLg_GjfJNwYF_lG7cZV6WDuckzFE/preview",
-    "nama_materi": "Gerak Lemparan dengan ayunan atas (Overhand Throw)",
-    "pengertian": "Gerak lemparan dengan ayunan atas (overhand throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di atas kepala. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar bola."
+    "nama_materi": "Gerak Lemparan dengan Ayunan Atas (Overhand Throw)",
+    "pengertian": "Gerak lemparan dengan ayunan atas (overhand throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di atas kepala.",
+    "cara_melakukan": [
+      "Berdiri sikap melangkah dan tarik tangan yang akan melempar ke belakang.",
+      "Berat badan tertumpu pada kaki belakang.",
+      "Pandangan ke arah sasaran.",
+      "Lemparkan bola ke depan bersamaan dengan gerak tangan.",
+      "Setelah bola lepas dari tangan, langkahkan kaki belakang ke depan."
+    ]
   },
   {
     "id": 2,
     "link_video_gdrive": "https://drive.google.com/file/d/1lkcsK2DnrHlGEJ2Tsh-zBNBvbVTX-Edo/preview",
-    "nama_materi": "Gerak Lemparan dengan ayunan samping (Sidearm Throw)",
-    "pengertian": "Gerak lemparan dengan ayunan samping (sidearm throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di samping tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar bola."
+    "nama_materi": "Gerak Lemparan dengan Ayunan Samping (Sidearm Throw)",
+    "pengertian": "Gerak lemparan dengan ayunan samping (sidearm throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di samping tubuh.",
+    "cara_melakukan": [
+      "Berdiri sikap melangkah.",
+      "Berat badan tertumpu pada kaki belakang.",
+      "Pandangan ke arah sasaran.",
+      "Lemparkan bola ke depan melalui samping badan bersamaan dengan gerak badan.",
+      "Setelah bola lepas, langkahkan kaki belakang ke depan.",
+      "Pandangan mengikuti arah gerak bola."
+    ]
   },
   {
     "id": 3,
     "link_video_gdrive": "https://drive.google.com/file/d/1rUB2jl8YEputX32WknvOWNQeuA3S6eCy/preview",
-    "nama_materi": "Gerak Lemparan bawah (Underhand Throw)",
-    "pengertian": "Gerak lemparan bawah (underhand throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di bawah tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar bola."
+    "nama_materi": "Gerak Lemparan Bawah (Underhand Throw)",
+    "pengertian": "Gerak lemparan bawah (underhand throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di bawah tubuh.",
+    "cara_melakukan": [
+      "Berdiri sikap melangkah.",
+      "Berat badan tertumpu pada kaki belakang.",
+      "Pandangan ke arah sasaran.",
+      "Lemparkan bola melalui samping badan bersamaan dengan tangan direndahkan dan kedua lutut ditekuk, diikuti perpindahan berat badan ke kaki depan.",
+      "Pergerakan bola dari tangan dibantu oleh pergerakan pergelangan tangan."
+    ]
   },
   {
     "id": 4,
     "link_video_gdrive": "https://drive.google.com/file/d/16jXp1ndsnOci6qLfp-FvwAd3Z8ATius-/preview",
-    "nama_materi": "Gerak Lemparan Pitcher",
-    "pengertian": "Gerak lemparan Pitcher adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di bawah tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar bola."
+    "nama_materi": "Gerak Lempar Pitcher",
+    "pengertian": "Gerak lempar pitcher adalah teknik melempar bola yang dilakukan oleh pitcher untuk mengarahkan bola kepada batter sesuai aturan permainan softball.",
+    "cara_melakukan": [
+      "Posisi pitcher siap terlebih dahulu.",
+      "Bola berada di kedua tangan di depan badan.",
+      "Lepasnya bola ke arah batter dilakukan dengan lemparan bawah tangan.",
+      "Salah satu kaki pitcher harus selalu menempel pada pitcher plate sampai bola lepas dari tangan.",
+      "Kedua kaki harus menempel pada pitcher plate.",
+      "Sebelum melakukan lemparan, pitcher harus diam dan bahu segaris dengan base 1 dan base 2.",
+      "Tangan harus berada di bawah pinggang dan pergelangan tangan tidak lebih tinggi dari siku.",
+      "Setelah bola lepas, lakukan gerak lanjutan lengan dan pergelangan tangan ke depan melewati garis lurus badan.",
+      "Pergelangan tangan harus lebih rendah dari pinggul ketika bola dilepaskan."
+    ]
   },
   {
     "id": 5,
     "link_video_gdrive": "https://drive.google.com/file/d/11DJKps_U39TyJI4AL7gg_WMksCCVDIvy/preview",
-    "nama_materi": "Gerak Menangkap bola lurus (Straight Catch)",
-    "pengertian": "Gerak menangkap bola lurus (straight catch) adalah gerakan menangkap bola dengan menggunakan tangan yang dimulai dari posisi di depan tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam menangkap bola."
+    "nama_materi": "Gerak Menangkap Bola Lurus (Straight Catch)",
+    "pengertian": "Gerak menangkap bola lurus adalah teknik menangkap bola yang datang lurus ke arah pemain menggunakan glove dan bantuan tangan lainnya.",
+    "cara_melakukan": [
+      "Berdiri dengan kedua kaki sedikit ditekuk.",
+      "Gerakkan badan ke arah datangnya bola dengan melangkah ke depan atau ke samping.",
+      "Lihat bola sampai dapat ditangkap.",
+      "Tangkap bola dengan kantung glove.",
+      "Tutup bola dengan tangan yang lain setelah masuk ke glove.",
+      "Redam tangkapan dengan menarik glove ke arah badan agar bola tidak memantul keluar."
+    ]
   },
   {
     "id": 6,
-    "link_video_gdrive": "https://drive.google.com/file/d/11DJKps_U39TyJI4AL7gg_WMksCCVDIvy/preview",
-    "nama_materi": "Gerak Menangkap bola lurus (Straight Catch)",
-    "pengertian": "Gerak menangkap bola lurus (straight catch) adalah gerakan menangkap bola dengan menggunakan tangan yang dimulai dari posisi di depan tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/1TlZBHq2l2_DS7pqS5ZMBIfZmXy-P1vCw/preview",
+    "nama_materi": "Gerak Menangkap Bola Bergulir di Tanah (Ground Catch)",
+    "pengertian": "Gerak menangkap bola bergulir di tanah adalah teknik menangkap bola yang bergerak atau menggelinding di permukaan tanah.",
+    "cara_melakukan": [
+      "Berdiri dengan kedua kaki dibuka selebar bahu.",
+      "Kedua lengan di depan siap menangkap bola.",
+      "Kedua lutut agak direndahkan.",
+      "Pandangan ke arah datangnya bola.",
+      "Saat bola datang, langkahkan kaki kiri ke depan dan julurkan kedua tangan hingga glove mengarah ke datangnya bola.",
+      "Saat bola masuk ke glove, segera tutup dengan tangan yang lain."
+    ]
   },
   {
     "id": 7,
-    "link_video_gdrive": "https://drive.google.com/file/d/1TlZBHq2l2_DS7pqS5ZMBIfZmXy-P1vCw/preview",
-    "nama_materi": "Gerak Menangkap bola bergulir di tanah (Ground Catch)",
-    "pengertian": "Gerak menangkap bola bergulir di tanah (ground catch) adalah gerakan menangkap bola dengan menggunakan tangan yang dimulai dari posisi di depan tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/126NxmryxGJO34JZZt5rJFnOsRvhqhhyU/preview",
+    "nama_materi": "Gerak Menangkap Bola Melambung (Fly Ball)",
+    "pengertian": "Gerak menangkap bola melambung adalah teknik menangkap bola yang datang dari arah atas atau hasil pukulan melambung.",
+    "cara_melakukan": [
+      "Usahakan posisi bola berada di depan atas kepala.",
+      "Perhatikan dan fokuskan pandangan pada bola.",
+      "Saat menangkap bola, luruskan tangan ke arah bola di depan atas kepala."
+    ]
   },
   {
     "id": 8,
-    "link_video_gdrive": "https://drive.google.com/file/d/126NxmryxGJO34JZZt5rJFnOsRvhqhhyU/preview",
-    "nama_materi": "Gerak Menangkap bola bergulir di tanah (Ground Catch)",
-    "pengertian": "Gerak menangkap bola bergulir di tanah (ground catch) adalah gerakan menangkap bola dengan menggunakan tangan yang dimulai dari posisi di depan tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/17TyPcJxvYCgGTCIsXh1sC8I1M29iFRrC/preview",
+    "nama_materi": "Gerak Menangkap Bola (Pemain Catcher)",
+    "pengertian": "Gerak menangkap bola oleh catcher adalah teknik menerima bola dari pitcher atau bola yang gagal dipukul oleh batter.",
+    "cara_melakukan": [
+      "Posisikan diri di belakang home plate.",
+      "Siap menangkap bola yang dilempar pitcher ke arah batter.",
+      "Kuasai bola dengan baik terutama saat terdapat pelari di base.",
+      "Lakukan tangkapan secara cepat dan aman untuk mencegah pelari maju ke base berikutnya."
+    ]
   },
   {
     "id": 9,
-    "link_video_gdrive": "https://drive.google.com/file/d/17TyPcJxvYCgGTCIsXh1sC8I1M29iFRrC/preview",
-    "nama_materi": "Gerak Menangkap bola (pemain catcher)",
-    "pengertian": "Gerak menangkap bola (pemain catcher) adalah gerakan menangkap bola dengan menggunakan tangan yang dimulai dari posisi di depan tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/10cOQ1g3UIcBV9DT_PLxbanmvU9LYBfb8/preview",
+    "nama_materi": "Gerak Melempar dan Menangkap Bola di Tempat Secara Individu",
+    "pengertian": "Gerak melempar dan menangkap bola di tempat secara individu adalah latihan dasar koordinasi melempar dan menangkap bola yang dilakukan sendiri.",
+    "cara_melakukan": [
+      "Lambungkan bola dari bawah ke atas.",
+      "Pandangan diarahkan ke bola yang melambung.",
+      "Sikap badan sedikit condong ke depan.",
+      "Ayunkan bola dari belakang bawah menuju ke depan atas hingga bola terlepas.",
+      "Tangkap kembali bola dengan kedua tangan."
+    ]
   },
   {
     "id": 10,
-    "link_video_gdrive": "https://drive.google.com/file/d/10cOQ1g3UIcBV9DT_PLxbanmvU9LYBfb8/preview",
-    "nama_materi": "Gerak Melempar dan menangkap bola di tempat secara individu",
-    "pengertian": "Gerak melempar dan menangkap bola di tempat secara individu adalah gerakan yang melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar dan menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/1Ey57ne6DXpQ_8vttILFiG7nVYqPT7QMZ/preview",
+    "nama_materi": "Gerak Melempar dan Menangkap Bola di Tempat Secara Berpasangan",
+    "pengertian": "Gerak melempar dan menangkap bola secara berpasangan adalah latihan dasar koordinasi lempar tangkap yang dilakukan bersama pasangan.",
+    "cara_melakukan": [
+      "Saling berhadapan dengan jarak 3-5 meter.",
+      "Bola dilemparkan secara bergantian setinggi dada.",
+      "Pandangan ditujukan pada arah lemparan bola.",
+      "Sikap badan sedikit condong ke depan.",
+      "Ayunkan bola dari belakang bawah menuju ke depan atas.",
+      "Lakukan latihan dengan gerak maju dan mundur."
+    ]
   },
   {
     "id": 11,
-    "link_video_gdrive": "https://drive.google.com/file/d/1Ey57ne6DXpQ_8vttILFiG7nVYqPT7QMZ/preview",
-    "nama_materi": "Gerak Melempar dan menangkap bola di tempat secara berpasangan",
-    "pengertian": "Gerak melempar dan menangkap bola di tempat secara berpasangan adalah gerakan yang melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar dan menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/1LLuIk0PE9olmFqTS8LJsINJR6aAKXB1h/preview",
+    "nama_materi": "Gerak Melempar dan Menangkap Bola Secara Berpasangan dengan Berbagai Lemparan",
+    "pengertian": "Gerak melempar dan menangkap bola secara berpasangan dengan berbagai lemparan adalah latihan koordinasi menggunakan variasi teknik lemparan.",
+    "cara_melakukan": [
+      "Saling berhadapan dengan pasangan.",
+      "Gunakan variasi lemparan seperti overhand, sidearm, dan underhand.",
+      "Tangkap bola sesuai arah datangnya bola.",
+      "Jaga fokus pandangan pada bola.",
+      "Lakukan secara bergantian dan berulang."
+    ]
   },
   {
     "id": 12,
-    "link_video_gdrive": "https://drive.google.com/file/d/1LLuIk0PE9olmFqTS8LJsINJR6aAKXB1h/preview",
-    "nama_materi": "Gerak Melempar dan menangkap bola di tempat secara berpasangan dengan berbagai lemparan",
-    "pengertian": "Gerak melempar dan menangkap bola di tempat secara berpasangan adalah gerakan yang melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar dan menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/1Bm1yROE4hAjqXOIZxZsuoUv5B1sngDs9/preview",
+    "nama_materi": "Gerak Memegang Stik (Pemukul)",
+    "pengertian": "Gerak memegang stik adalah teknik dasar memegang pemukul dengan benar sebelum melakukan pukulan.",
+    "cara_melakukan": [
+      "Buka kedua kaki selebar bahu dan lutut sedikit ditekuk.",
+      "Pusatkan pandangan pada bola yang akan datang.",
+      "Posisi badan agak condong ke depan untuk menjaga keseimbangan.",
+      "Pegang stik agak ke belakang, siku bengkok, dan bahu sejajar.",
+      "Saat akan memukul, posisi badan tegak lurus di depan bahu kanan."
+    ]
   },
   {
     "id": 13,
-    "link_video_gdrive": "https://drive.google.com/file/d/1Bm1yROE4hAjqXOIZxZsuoUv5B1sngDs9/preview",
-    "nama_materi": "Gerak Memegang stik (pemukul)",
-    "pengertian": "Gerak memegang stik (pemukul) adalah gerakan yang dilakukan oleh pemukul untuk memegang stik dengan benar sebelum melakukan pukulan."
+    "link_video_gdrive": "https://drive.google.com/file/d/13ZZLhKq--MYH_I7pC0NzSnZzHSJrbOJn/preview",
+    "nama_materi": "Gerak Posisi Kepala dan Mata",
+    "pengertian": "Gerak posisi kepala dan mata adalah teknik mengatur posisi tubuh dan fokus pandangan saat bersiap memukul bola.",
+    "cara_melakukan": [
+      "Berdiri selebar pinggang sejajar dengan home plate.",
+      "Berdiri agak jauh namun masih dapat menjangkau sudut terjauh home plate.",
+      "Posisi bahu sejajar dan lengan dibawa ke belakang secara wajar.",
+      "Pandangan selalu tertuju pada bola."
+    ]
   },
   {
     "id": 14,
-    "link_video_gdrive": "https://drive.google.com/file/d/11kISKobWyZyey5nXoLVLGMXOu9ViqMrN/preview",
-    "nama_materi": "Gerak Memukul bola dengan stik (pemukul) bola dilambungkan teman",
-    "pengertian": "Gerak melempar dan menangkap bola di tempat secara berpasangan adalah gerakan yang melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar dan menangkap bola."
+    "link_video_gdrive": "https://drive.google.com/file/d/1YSLnPRTLibW5319G33SrV14O23XDD5_I/preview",
+    "nama_materi": "Gerak Pukulan Ayunan (Swing)",
+    "pengertian": "Gerak pukulan ayunan (swing) adalah teknik memukul bola dengan ayunan penuh menggunakan stik.",
+    "cara_melakukan": [
+      "Berdiri tegak dengan kaki dibuka selebar bahu dan sedikit ditekuk.",
+      "Pegang stik di belakang bahu dengan ujung stik lebih tinggi dari bahu.",
+      "Pandangan fokus pada gerakan pitcher.",
+      "Saat bola dilempar, langkahkan kaki ke arah pitcher dan ayunkan stik ke bola.",
+      "Lanjutkan ayunan hingga selesai setelah bola terpukul."
+    ]
   },
   {
     "id": 15,
+    "link_video_gdrive": "https://drive.google.com/file/d/1bc7MZTEJ_LNfIG5Kj6H9WQJbBpVZ3Gyd/preview",
+    "nama_materi": "Memukul Bola dengan Bola Dilambungkan Sendiri",
+    "pengertian": "Teknik memukul bola dengan cara melambungkan bola sendiri sebelum melakukan pukulan.",
+    "cara_melakukan": [
+      "Berdiri menyamping arah gerakan.",
+      "Tangan kanan memegang bola dan tangan kiri memegang stik.",
+      "Lambungkan bola di depan badan.",
+      "Segera pegang stik dengan kedua tangan sambil melangkahkan kaki kiri ke depan.",
+      "Ayunkan stik ke arah bola hingga mengenai bola."
+    ]
+  },
+  {
+    "id": 16,
+    "link_video_gdrive": "https://drive.google.com/file/d/11kISKobWyZyey5nXoLVLGMXOu9ViqMrN/preview",
+    "nama_materi": "Gerak Memukul Bola dengan Stik, Bola Dilambungkan Teman",
+    "pengertian": "Teknik memukul bola menggunakan stik dengan bantuan teman yang melambungkan bola.",
+    "cara_melakukan": [
+      "Pemain berdiri berhadapan dengan jarak 3-6 meter.",
+      "Salah satu pemain memegang bola softball.",
+      "Pemain yang memegang bola melambungkan bola kepada pemukul.",
+      "Pemukul fokus pada teknik memegang stik, ayunan lengan, dan sasaran bola."
+    ]
+  },
+  {
+    "id": 17,
     "link_video_gdrive": "https://drive.google.com/file/d/1Nc6edwho4xu-dts0uMkx9YAHHaw2Pdu6/preview",
-    "nama_materi": "Gerak Pukulan Bunt (menahan bola)",
-    "pengertian": "Gerak lemparan bawah (underhand throw) adalah gerakan melempar bola dengan menggunakan ayunan tangan yang dimulai dari posisi di bawah tubuh. Gerakan ini melibatkan koordinasi antara lengan, bahu, dan tubuh untuk menghasilkan kekuatan dan akurasi dalam melempar bola."
+    "nama_materi": "Gerak Pukulan Bunt (Menahan Bola)",
+    "pengertian": "Gerak pukulan bunt adalah teknik menahan laju bola dengan stik agar bola jatuh tidak jauh dari home plate.",
+    "cara_melakukan": [
+      "Putar posisi badan menghadap pelambung.",
+      "Pegang stik dengan ujung tangan di antara jari telunjuk dan ibu jari.",
+      "Jari-jari lainnya melingkar pada pegangan stik.",
+      "Tempatkan stik sejajar dan datar di depan tubuh menghadap pelambung."
+    ]
+  },
+  {
+    "id": 18,
+    "link_video_gdrive": "https://drive.google.com/file/d/17KEt2cRL_ZA9ZdUmpoje5tqul5_JuA4E/preview",
+    "nama_materi": "Gerak Sliding Lurus (Straight Leg Slide)",
+    "pengertian": "Gerak sliding lurus adalah teknik meluncur menuju base dengan posisi kaki lurus ke depan.",
+    "cara_melakukan": [
+      "Mulai sliding sekitar 2-3 meter sebelum mencapai base.",
+      "Setelah mendekati base, pindahkan berat badan ke belakang dan jatuhkan pinggul ke tanah.",
+      "Ayunkan salah satu kaki ke arah base lalu diikuti kaki lainnya.",
+      "Saat meluncur, badan terlentang dan kaki diluruskan menuju base."
+    ]
+  },
+  {
+    "id": 19,
+    "link_video_gdrive": "https://drive.google.com/file/d/1W1c_KvrmSD6qSXNUqU4gX7_tDRsnhJKH/preview",
+    "nama_materi": "Gerak Sliding Mengait (Hook Slide)",
+    "pengertian": "Gerak sliding mengait adalah teknik meluncur dengan mengait base menggunakan salah satu kaki.",
+    "cara_melakukan": [
+      "Rebahkan badan ke arah samping kanan atau kiri.",
+      "Biarkan badan melewati base.",
+      "Gunakan salah satu kaki untuk mengait base agar tidak terlepas."
+    ]
+  },
+  {
+    "id": 20,
+    "link_video_gdrive": "https://drive.google.com/file/d/13emOL5RD0U8uDeS8__tpxbRzbrmCUULi/preview",
+    "nama_materi": "Gerak Sliding dengan Kepala Lebih Dulu (Head First Slide)",
+    "pengertian": "Gerak head first slide adalah teknik meluncur menuju base dengan posisi kepala dan tangan berada di depan.",
+    "cara_melakukan": [
+      "Lakukan tolakan dengan kedua kaki sehingga badan meluncur ke depan.",
+      "Posisikan badan telungkup di atas tanah.",
+      "Kepala mengarah ke depan dengan kedua lengan lurus untuk menyentuh base."
+    ]
   }
 ]
-  

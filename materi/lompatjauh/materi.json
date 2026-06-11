@@ -1,63 +1,115 @@
 [
   {
     "id": 1,
-    "link_video_gdrive": "https://drive.google.com/file/d/1VFTHyybftupPbkWKmDrr7TCzt287oNgk/preview",
-    "nama_materi": "Gerak awalan dan menolak melalui atas ban atau boks",
-    "pengertian": "Gerak awalan dan menolak melalui atas ban atau boks adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1xq4RA8YMiWcQHoSe1JSJxjbPf_3WFTAv/preview",
+    "nama_materi": "Start Awalan atau Ancang-Ancang (Approach Run)",
+    "pengertian": "Start awalan atau ancang-ancang adalah tahap awal dalam lompat jauh yang bertujuan memperoleh kecepatan maksimal sebelum melakukan tolakan.",
+    "cara_melakukan": [
+      "Lakukan lari ancang-ancang sekitar 10 sampai 20 langkah.",
+      "Tambahkan kecepatan lari sedikit demi sedikit sebelum melakukan tolakan.",
+      "Pertahankan kecepatan maksimal hingga mencapai papan tolakan.",
+      "Turunkan posisi pinggang sedikit pada langkah terakhir sebelum bertolak.",
+      "Gunakan jarak awalan sekitar 30 sampai 45 meter."
+    ]
   },
   {
     "id": 2,
     "link_video_gdrive": "https://drive.google.com/file/d/15dH53pxn23EbgZqRpwFDTnoE8Aisu3BW/preview",
-    "nama_materi": "Gerak langkah, menolak dan posisi badan di udara",
-    "pengertian": "Gerak langkah, menolak dan posisi badan di udara adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "nama_materi": "Gerak Tolakan (Take Off)",
+    "pengertian": "Gerak tolakan adalah tahap mengubah kecepatan horizontal dari awalan menjadi dorongan ke depan dan ke atas untuk menghasilkan lompatan yang maksimal.",
+    "cara_melakukan": [
+      "Saat akan melakukan tolakan, badan agak dikencangkan ke belakang.",
+      "Luruskan kaki tumpu yang digunakan untuk menolak dan tekuk sedikit kaki ayun.",
+      "Berat badan berada pada kaki belakang.",
+      "Ayunkan kedua tangan ke belakang dan angkat dagu sedikit ke atas.",
+      "Pandangan diarahkan ke depan."
+    ]
   },
   {
     "id": 3,
-    "link_video_gdrive": "https://drive.google.com/file/d/1fAddkn9QnHInfG7HZouTBVQw0iYT6aXk/preview",
-    "nama_materi": "Gerak melayang di udara atau gaya mengambang",
-    "pengertian": "Gerak melayang di udara atau gaya mengambang adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1b9EnPdrOWXlLqzsOM5_r22zO9uNnXwNx/preview",
+    "nama_materi": "Gerak Melayang di Udara (Gaya Menggantung)",
+    "pengertian": "Gerak melayang di udara gaya menggantung adalah teknik melayang dengan mempertahankan posisi tubuh seolah-olah menggantung untuk memperpanjang waktu di udara.",
+    "cara_melakukan": [
+      "Angkat paha kaki bebas dengan cepat ke posisi horizontal saat bertolak.",
+      "Turunkan kaki bebas saat berada di udara.",
+      "Angkat kedua lengan selama fase melayang untuk membantu menjaga keseimbangan."
+    ]
   },
   {
     "id": 4,
-    "link_video_gdrive": "https://drive.google.com/file/d/1KJop8cPNSXeNxbGmjn6tzTTzXe-GylEJ/preview",
-    "nama_materi": "Gerak melompat tali",
-    "pengertian": "Gerak melompat tali adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1fAddkn9QnHInfG7HZouTBVQw0iYT6aXk/preview",
+    "nama_materi": "Gerak Melayang di Udara (Gaya Mengambang)",
+    "pengertian": "Gerak melayang di udara gaya mengambang adalah teknik menjaga keseimbangan tubuh selama berada di udara sebelum melakukan pendaratan.",
+    "cara_melakukan": [
+      "Hindari mencondongkan badan terlalu jauh ke depan atau ke belakang selama melayang.",
+      "Biarkan kaki yang bertolak tergantung di belakang, kemudian tekuk dan tarik ke depan untuk persiapan mendarat.",
+      "Pertahankan kaki bebas dalam posisi horizontal lalu luruskan ke depan dan ke atas menjelang pendaratan."
+    ]
   },
   {
     "id": 5,
-    "link_video_gdrive": "https://drive.google.com/file/d/1muYL92dTtqz6u7TIFnUnG-Qj4SubYKKz/preview",
-    "nama_materi": "Gerak melompati cone atau bangku senam",
-    "pengertian": "Gerak melompati cone atau bangku senam adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1cHXCtvv04NwwaP3TMHh9ICReW4i7rBN0/preview",
+    "nama_materi": "Gerak Melayang di Udara (Gaya Berjalan di Udara)",
+    "pengertian": "Gerak melayang di udara gaya berjalan di udara adalah teknik melayang yang menyerupai gerakan berjalan saat tubuh berada di udara.",
+    "cara_melakukan": [
+      "Setelah bertolak, tarik kaki bebas ke bawah dan ke belakang.",
+      "Pada saat yang sama, tarik kaki tumpu ke depan dan ke atas.",
+      "Lakukan gerakan menyerupai langkah berjalan untuk menjaga keseimbangan tubuh."
+    ]
   },
   {
     "id": 6,
-    "link_video_gdrive": "https://drive.google.com/file/d/1cHXCtvv04NwwaP3TMHh9ICReW4i7rBN0/preview",
-    "nama_materi": "Gerak melayang di udara (Gaya berjalan d udara)",
-    "pengertian": "Gerak melayang di udara (Gaya berjalan d udara) adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/10IYVT-Sls6Gm4P9vZwEpIWMcFm1u3p9O/preview",
+    "nama_materi": "Keterampilan Gerak Mendarat",
+    "pengertian": "Keterampilan gerak mendarat adalah teknik akhir dalam lompat jauh yang bertujuan memperoleh jarak lompatan maksimal dan mengurangi risiko cedera.",
+    "cara_melakukan": [
+      "Tarik kedua lengan dan tubuh ke arah depan bawah.",
+      "Luruskan kedua kaki dan tekuk sedikit sesaat sebelum menyentuh pasir.",
+      "Setelah kedua kaki mendarat di bak pasir, lanjutkan dengan posisi duduk di atas kedua kaki."
+    ]
   },
   {
     "id": 7,
-    "link_video_gdrive": "https://drive.google.com/file/d/1b9EnPdrOWXlLqzsOM5_r22zO9uNnXwNx/preview",
-    "nama_materi": "Gerak melayang di udara (Gaya menggantung)",
-    "pengertian": "Gerak melayang di udara (Gaya menggantung) adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1KJop8cPNSXeNxbGmjn6tzTTzXe-GylEJ/preview",
+    "nama_materi": "Gerak Melompat Tali",
+    "pengertian": "Gerak melompat tali adalah latihan dasar untuk melatih koordinasi awalan, tolakan, sikap melayang, dan pendaratan dalam lompat jauh.",
+    "cara_melakukan": [
+      "Pasang seutas tali dengan ketinggian sekitar 50 sentimeter.",
+      "Berdiri sekitar 4 sampai 5 meter di depan tali.",
+      "Lakukan awalan dengan berlari menuju tali.",
+      "Lakukan tolakan, sikap melayang, dan pendaratan setelah melewati tali."
+    ]
   },
   {
     "id": 8,
-    "link_video_gdrive": "https://drive.google.com/file/d/10IYVT-Sls6Gm4P9vZwEpIWMcFm1u3p9O/preview",
-    "nama_materi": "Keterampilan Gerak Mendarat",
-    "pengertian": "Keterampilan Gerak Mendarat adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1muYL92dTtqz6u7TIFnUnG-Qj4SubYKKz/preview",
+    "nama_materi": "Gerak Melompati Cone atau Bangku Senam",
+    "pengertian": "Gerak melompati cone atau bangku senam adalah latihan untuk meningkatkan kemampuan tolakan dan koordinasi gerak dalam lompat jauh.",
+    "cara_melakukan": [
+      "Tempatkan dua bangku senam dengan jarak sekitar 1,5 meter dan pasang seutas tali melintang.",
+      "Berdiri sekitar 1 meter di depan rintangan tersebut.",
+      "Lakukan gerakan melangkah melewati bangku senam.",
+      "Akhiri gerakan dengan tolakan melewati tali yang dipasang melintang kemudian mendarat.",
+      "Setelah selesai, berpindah tempat dan ulangi latihan."
+    ]
   },
   {
     "id": 9,
-    "link_video_gdrive": "https://drive.google.com/file/d/1rfd8yp1GK4ToVOVbUVoHSN43Y-eUNUOJ/preview",
-    "nama_materi": "Rangkaian gerakan lompat jauh gaya melenting",
-    "pengertian": "Rangkaian gerakan lompat jauh gaya melenting adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1VFTHyybftupPbkWKmDrr7TCzt287oNgk/preview",
+    "nama_materi": "Gerak Awalan dan Menolak Melalui Atas Ban atau Boks",
+    "pengertian": "Gerak awalan dan menolak melalui atas ban atau boks adalah latihan dasar untuk meningkatkan kemampuan awalan dan tolakan dalam lompat jauh.",
+    "cara_melakukan": [
+      "Berdiri sekitar 5 sampai 6 meter dari papan tolakan atau tumpuan.",
+      "Lakukan awalan dengan posisi melangkah menghadap bak lompat.",
+      "Lakukan tolakan menggunakan kaki depan ke arah depan dan atas.",
+      "Usahakan tubuh melewati ban atau boks yang digunakan sebagai rintangan latihan."
+    ]
   },
   {
     "id": 10,
-    "link_video_gdrive": "https://drive.google.com/file/d/1xq4RA8YMiWcQHoSe1JSJxjbPf_3WFTAv/preview",
-    "nama_materi": "Start awalan atau ancang-ancang (approach run)",
-    "pengertian": "Start awalan atau ancang-ancang (approach run) adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
+    "link_video_gdrive": "https://drive.google.com/file/d/1rfd8yp1GK4ToVOVbUVoHSN43Y-eUNUOJ/preview",
+    "nama_materi": "Rangkaian gerakan lompat jauh gaya melenting",
+    "pengertian": "Rangkaian gerakan lompat jauh gaya melenting adalah teknik dasar dalam lompat jauh di mana atlet melakukan lompatan dengan menggunakan kekuatan dari kaki untuk mendorong tubuh melewati rintangan seperti ban atau boks, dengan tujuan mencapai jarak maksimum."
   }
 ]
-  

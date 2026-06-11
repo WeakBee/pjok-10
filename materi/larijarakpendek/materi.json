@@ -1,52 +1,91 @@
 [
   {
-    "id": 5,
+    "id": 1,
     "link_video_gdrive": "https://drive.google.com/file/d/18sWJt_9VWzVyuYsxfHy4GsIzca3VHRrV/preview",
-    "nama_materi": "Start Aba-aba 'Bersedia'",
+    "nama_materi": "Start Aba-aba Bersedia",
+    "pengertian": "Start aba-aba bersedia adalah posisi awal dalam start jongkok sebelum pelari memasuki tahap siap untuk melakukan tolakan.",
     "cara_melakukan": [
-      "Salah satu lutut diletakkan di tanah dengan jarak ± satu jengkal dari garis start. Kaki satunya diletakkan tepat di samping lutut yang menempel tanah ± satu kepal.",
-      "Badan membungkuk ke depan, kedua tangan terletak di tanah di belakang garis start, keempat jari rapat, ibu jari terbuka (membentuk huruf V).",
+      "Salah satu lutut diletakkan di tanah dengan jarak sekitar satu jengkal dari garis start. Kaki lainnya diletakkan tepat di samping lutut yang menempel tanah sekitar satu kepal.",
+      "Badan membungkuk ke depan, kedua tangan terletak di tanah di belakang garis start, keempat jari rapat dan ibu jari terbuka membentuk huruf V.",
       "Kepala ditundukkan, leher rileks, pandangan ke bawah, dan konsentrasi pada aba-aba berikutnya."
     ]
   },
   {
-    "id": 1,
-    "link_video_gdrive": "https://drive.google.com/file/d/1E0clU48TRm54a1ZiIk4iXFklzJ3OY1d8/preview",
-    "nama_materi": "Aba Aba 'Siap'",
-    "cara_melakukan": [
-    "Lutut yang menempel di tanah diangkat, panggul diangkat setinggi bahu, dan berat badan dibawa ke muka.",
-    "Kepala tetap menunduk, leher rileks, pandangan ke bawah, dan konsentrasi pada aba-aba berikutnya."
-  ]
-  },
-  {
     "id": 2,
-    "link_video_gdrive": "https://drive.google.com/file/d/1bNO7TExUPkaQeS7mOlnbGzYo2M31vJr-/preview",
-    "nama_materi": "Aba-aba 'Ya'",
+    "link_video_gdrive": "https://drive.google.com/file/d/1E0clU48TRm54a1ZiIk4iXFklzJ3OY1d8/preview",
+    "nama_materi": "Start Aba-aba Siap",
+    "pengertian": "Start aba-aba siap adalah posisi lanjutan setelah aba-aba bersedia dengan tubuh bersiap melakukan tolakan saat aba-aba mulai diberikan.",
     "cara_melakukan": [
-      "Menolak ke depan dengan kekuatan penuh atau gerakan meluncur, tetapi jangan melompat.",
-      "Badan tetap condong ke depan disertai dengan gerakan lengan yang diayunkan.",
-      "Dilanjutkan dengan gerakan langkah kaki pendek-pendek, tetapi cepat agar badan tidak jatuh ke depan (tersungkur)."
+      "Lutut yang menempel di tanah diangkat, panggul diangkat setinggi bahu, dan berat badan dibawa ke depan.",
+      "Kepala tetap menunduk, leher rileks, pandangan ke bawah, dan konsentrasi pada aba-aba berikutnya."
     ]
   },
   {
     "id": 3,
-    "link_video_gdrive": "https://drive.google.com/file/d/1SkkJlV15Z5P0lUTM5CzVF-v8YpwlDRPM/preview",
-    "nama_materi": "Memasuki Garis Finish",
+    "link_video_gdrive": "https://drive.google.com/file/d/1bNO7TExUPkaQeS7mOlnbGzYo2M31vJr-/preview",
+    "nama_materi": "Start Aba-aba Ya",
+    "pengertian": "Start aba-aba Ya adalah fase awal berlari ketika pelari mulai melakukan tolakan dan bergerak maju setelah aba-aba diberikan.",
     "cara_melakukan": [
-      "Setelah menempuh jarak 50 m dengan kecepatan maksimal, gerakan selanjutnya memasuki garis finis.",
-      "Berlari secepat mungkin. Jika perlu, tingkatkan kecepatannya seakan-akan garis finis masih 10 m di belakang garis sesungguhnya.",
-      "Setelah sampai ± satu meter di depan garis finis, rebahkan badan ke depan tanpa mengurangi kecepatan.",
-      "Ketika tiba di garis finis, busungkan dada, tangan ditarik ke belakang atau putar salah satu bahu ke depan."
+      "Menolak ke depan dengan kekuatan penuh atau gerakan meluncur, tetapi tidak melompat.",
+      "Badan tetap condong ke depan disertai gerakan ayunan lengan.",
+      "Dilanjutkan dengan langkah kaki pendek tetapi cepat agar badan tidak jatuh ke depan."
     ]
   },
   {
     "id": 4,
+    "link_video_gdrive": "https://drive.google.com/file/d/1Qwq7CpAaAeB0x9JGce9i032Fs9PHAtxX/preview",
+    "nama_materi": "Gerak Lari Jarak Pendek",
+    "pengertian": "Gerak lari jarak pendek adalah teknik dasar berlari dengan kecepatan maksimal pada jarak tertentu untuk mencapai hasil terbaik.",
+    "cara_melakukan": [
+      "Berlari menggunakan ujung telapak kaki dengan tumpuan yang kuat agar memperoleh dorongan maksimal.",
+      "Posisi badan condong ke depan sekitar 60 derajat.",
+      "Ayunan lengan dilakukan kuat dan cepat, siku ditekuk, serta kedua tangan menggenggam secara rileks.",
+      "Setelah sekitar 20 meter dari garis start, langkah diperlebar dan posisi badan tetap condong ke depan.",
+      "Pertahankan ayunan lengan dan gerakan langkah sambil terus meningkatkan kecepatan dan kekuatan lari."
+    ]
+  },
+  {
+    "id": 5,
+    "link_video_gdrive": "https://drive.google.com/file/d/1Tle_D6JCFonaHdYstYnD6MLw6qrTcVgK/preview",
+    "nama_materi": "Mengayunkan Kedua Lengan",
+    "pengertian": "Mengayunkan kedua lengan adalah latihan dasar untuk melatih koordinasi gerak lengan saat berlari.",
+    "cara_melakukan": [
+      "Ayunkan kedua lengan ke depan dan belakang di tempat dengan posisi berdiri dan kedua kaki dibuka selebar bahu.",
+      "Setelah itu, lanjutkan gerakan sambil bergerak maju.",
+      "Pertahankan posisi badan agak condong ke depan."
+    ]
+  },
+  {
+    "id": 6,
     "link_video_gdrive": "https://drive.google.com/file/d/1Y5NrKMAhIe5faqieqmxH_bDyIyWR-V5e/preview",
     "nama_materi": "Mengayunkan Tangan dan Kaki di Tempat",
+    "pengertian": "Mengayunkan tangan dan kaki di tempat adalah latihan koordinasi gerak anggota tubuh untuk menunjang teknik lari yang benar.",
     "cara_melakukan": [
-      "Ayunkan tangan dan kaki di tempat dan dilanjutkan bergerak maju, pendaratan kaki menggunakan ujung telapak kaki.",
-      "Pembelajaran ini dapat dilakukan secara perseorangan, berpasangan, atau beregu."
+      "Ayunkan tangan dan kaki di tempat kemudian dilanjutkan dengan bergerak maju.",
+      "Gunakan ujung telapak kaki sebagai tumpuan saat mendarat.",
+      "Latihan dapat dilakukan secara perseorangan, berpasangan, atau beregu."
+    ]
+  },
+  {
+    "id": 7,
+    "link_video_gdrive": "https://drive.google.com/file/d/1Di-RfEZsBYLqwI8yjoKhxg9cw7ni22RU/preview",
+    "nama_materi": "Gerak Lari dengan Langkah Lebar",
+    "pengertian": "Gerak lari dengan langkah lebar adalah latihan untuk meningkatkan panjang langkah dan kekuatan dorongan saat berlari.",
+    "cara_melakukan": [
+      "Lakukan lari dengan langkah yang lebar dan angkat paha setinggi mungkin.",
+      "Gunakan ujung telapak kaki sebagai tumpuan saat mendarat.",
+      "Latihan dapat dilakukan secara perseorangan, berpasangan, atau beregu."
+    ]
+  },
+  {
+    "id": 8,
+    "link_video_gdrive": "https://drive.google.com/file/d/1SkkJlV15Z5P0lUTM5CzVF-v8YpwlDRPM/preview",
+    "nama_materi": "Gerak Memasuki Garis Finish",
+    "pengertian": "Gerak memasuki garis finish adalah teknik mempertahankan kecepatan hingga melewati garis akhir perlombaan.",
+    "cara_melakukan": [
+      "Berlari secepat mungkin dan tingkatkan kecepatan seolah-olah garis finish masih berada 10 meter di depan.",
+      "Saat sekitar satu meter sebelum garis finish, rebahkan badan ke depan tanpa mengurangi kecepatan.",
+      "Ketika mencapai garis finish, busungkan dada, tarik kedua tangan ke belakang atau putar salah satu bahu ke depan."
     ]
   }
 ]
-  

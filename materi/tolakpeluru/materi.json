@@ -3,79 +3,148 @@
     "id": 1,
     "link_video_gdrive": "https://drive.google.com/file/d/1Rz7UIvB7BIPLZDmV3fqW9Bp4mz7Wv6BI/preview",
     "nama_materi": "Gerak memegang peluru",
-    "pengertian": "Gerak memegang peluru adalah teknik dasar dalam tolak peluru di mana atlet memegang peluru dengan posisi yang benar untuk memastikan kontrol dan kekuatan saat melakukan lemparan."
+    "pengertian": "Gerak memegang peluru adalah teknik dasar dalam tolak peluru di mana atlet memegang peluru dengan posisi yang benar untuk memastikan kontrol dan kekuatan saat melakukan lemparan.",
+    "cara_melakukan": [
+      "Peluru diletakkan pada telapak tangan bagian atas atau pada ujung telapak tangan yang dekat dengan jari-jari tangan.",
+      "Jari-jari tangan direnggangkan atau dibuka, jari manis, jari tengah, dan jari telunjuk digunakan untuk menahan dan memegang peluru bagian belakang.",
+      "Jari kelingking dan ibu jari digunakan untuk memegang peluru bagian samping agar peluru tidak tergelincir ke dalam atau ke luar."
+    ]
   },
   {
     "id": 2,
     "link_video_gdrive": "https://drive.google.com/file/d/1C6Smr8gO5yRQfkiU4tP2OIufw9ZM8N0v/preview",
     "nama_materi": "Gerak menempatkan peluru",
-    "pengertian": "Gerak menempatkan peluru adalah teknik dasar dalam tolak peluru di mana atlet menempatkan peluru di posisi yang tepat sebelum melakukan lemparan."
+    "pengertian": "Gerak menempatkan peluru adalah teknik dasar dalam tolak peluru di mana atlet menempatkan peluru di posisi yang tepat sebelum melakukan lemparan.",
+    "cara_melakukan": [
+      "Setelah peluru dapat dipegang dengan baik, letakkan siku pada bahu dan tempelkan peluru di leher, siku diangkat ke samping sedikit agak serong ke arah depan.",
+      "Pada waktu memegang dan meletakkan peluru pada bahu, usahakan seluruh badan dan tangan tidak kaku.",
+      "Tubuh tetap dalam keadaan rileks, sedangkan tangan dan lengan yang lain membantu menjaga keseimbangan."
+    ]
   },
   {
     "id": 3,
-    "link_video_gdrive": "https://drive.google.com/file/d/10LTikHWIfsUPWWYtHzsrqsdA2pfh-fDW/preview",
-    "nama_materi": "Gerak menolakkan peluru lanjutan",
-    "pengertian": "Gerak menolakkan peluru lanjutan adalah teknik dasar dalam tolak peluru di mana atlet menolakkan peluru dengan kekuatan dan kontrol yang baik."
+    "link_video_gdrive": "https://drive.google.com/file/d/1bhwp6kOG7ZCP3oRhaCMz7vdjxgaA_Anj/preview",
+    "nama_materi": "Gerak sikap badan saat akan menolak",
+    "pengertian": "Gerak sikap badan saat akan menolak adalah teknik dasar dalam tolak peluru di mana atlet menjaga sikap badan yang benar untuk memastikan keseimbangan dan kekuatan saat melakukan lemparan.",
+    "cara_melakukan": [
+      "Berdiri tegak menyamping ke arah tolakan dengan kedua kaki dibuka lebar.",
+      "Kaki kiri lurus ke depan, sedangkan kaki kanan dengan lutut dibengkokkan ke depan sedikit agak serong ke samping kanan.",
+      "Berat badan bertumpu pada kaki kanan dan badan condong ke samping kanan.",
+      "Tangan kanan memegang peluru pada bahu, sedangkan tangan kiri dengan siku dibengkokkan berada di depan sedikit agak serong ke atas dalam keadaan rileks.",
+      "Tangan kiri berfungsi membantu dan menjaga keseimbangan.",
+      "Pandangan tertuju ke arah tolakan."
+    ]
   },
   {
     "id": 4,
-    "link_video_gdrive": "https://drive.google.com/file/d/1bhwp6kOG7ZCP3oRhaCMz7vdjxgaA_Anj/preview",
-    "nama_materi": "Gerak sikap badan saat akan menolak",
-    "pengertian": "Gerak sikap badan saat akan menolak adalah teknik dasar dalam tolak peluru di mana atlet menjaga sikap badan yang benar untuk memastikan keseimbangan dan kekuatan saat melakukan lemparan."
+    "link_video_gdrive": "https://drive.google.com/file/d/10LTikHWIfsUPWWYtHzsrqsdA2pfh-fDW/preview",
+    "nama_materi": "Gerak menolakkan peluru lanjutan",
+    "pengertian": "Gerak menolakkan peluru lanjutan adalah teknik dasar dalam tolak peluru di mana atlet menolakkan peluru dengan kekuatan dan kontrol yang baik.",
+    "cara_melakukan": [
+      "Saat seluruh badan atau dada menghadap ke arah tolakan, secepatnya peluru ditolakkan sekuat-kuatnya ke atas depan menuju arah tolakan.",
+      "Tolakan dilakukan dengan lintasan parabola.",
+      "Gerakan dibantu dengan dorongan kaki kanan dan lonjakan seluruh badan ke atas serong ke depan."
+    ]
   },
   {
     "id": 5,
     "link_video_gdrive": "https://drive.google.com/file/d/1nn48z7X-YkJnsQl331LDGqoBAwimgpW_/preview",
     "nama_materi": "Gerak sikap badan setelah menolak peluru",
-    "pengertian": "Gerak sikap badan setelah menolak peluru adalah teknik dasar dalam tolak peluru di mana atlet menjaga sikap badan yang benar untuk memastikan keseimbangan dan kekuatan saat melakukan lemparan."
+    "pengertian": "Gerak sikap badan setelah menolak peluru adalah teknik dasar dalam tolak peluru di mana atlet menjaga sikap badan yang benar untuk memastikan keseimbangan dan kekuatan saat melakukan lemparan.",
+    "cara_melakukan": [
+      "Setelah peluru lepas dari tangan, secepatnya kaki yang digunakan untuk menolak diturunkan atau mendarat pada posisi bekas kaki kiri dengan lutut agak dibengkokkan.",
+      "Kaki kiri diangkat ke belakang dalam keadaan lurus dan rileks untuk membantu menjaga keseimbangan.",
+      "Badan condong ke depan, dagu diangkat, dan badan agak miring ke samping kiri.",
+      "Pandangan diarahkan ke tempat jatuhnya peluru.",
+      "Tangan kanan dengan siku agak dibengkokkan berada di depan sedikit agak di bawah badan.",
+      "Tangan kiri rileks lurus ke belakang untuk membantu menjaga keseimbangan."
+    ]
   },
   {
     "id": 6,
-    "link_video_gdrive": "https://drive.google.com/file/d/1WYKL89kJg550clFSJekZfqaSNbvTlIX_/preview",
-    "nama_materi": "Gerak tolak peluru keseluruhan gaya Obrien",
-    "pengertian": "Gerak tolak peluru keseluruhan gaya Obrien adalah teknik dasar dalam tolak peluru di mana atlet melakukan seluruh gerakan lemparan dengan gaya Obrien."
+    "link_video_gdrive": "https://drive.google.com/file/d/1f-8Md2PMv-BL2HQmzHQNf6Q1ehh3TdOK/preview",
+    "nama_materi": "Gerakan menolak peluru dengan dua tangan",
+    "pengertian": "Gerakan menolak peluru dengan dua tangan adalah teknik dasar dalam tolak peluru di mana atlet menggunakan kedua tangan untuk menolak peluru.",
+    "cara_melakukan": [
+      "Berdiri dengan kaki segaris dan badan agak condong sedikit ke belakang.",
+      "Peluru dipegang oleh kedua tangan di depan dada.",
+      "Langkahkan kaki kiri ke depan.",
+      "Tolak peluru dengan gerakan meluruskan lengan dan kaki secara serentak.",
+      "Latihan ini bertujuan melatih koordinasi gerak kaki dan lengan dalam gerakan melempar."
+    ]
   },
   {
     "id": 7,
-    "link_video_gdrive": "https://drive.google.com/file/d/1klj634WiN3Hk3GqopCyLi9LOjv-Erjfo/preview",
-    "nama_materi": "Gerak tolak peluru keseluruhan gaya Ortodoks",
-    "pengertian": "Gerak tolak peluru keseluruhan gaya Ortodoks adalah teknik dasar dalam tolak peluru di mana atlet melakukan seluruh gerakan lemparan dengan gaya Ortodoks."
+    "link_video_gdrive": "https://drive.google.com/file/d/17wH7-E1p9xsyC7OlUWL_hHaxwZyjHs6W/preview",
+    "nama_materi": "Gerakan menolak peluru dengan satu tangan",
+    "pengertian": "Gerakan menolak peluru dengan satu tangan adalah teknik dasar dalam tolak peluru di mana atlet menggunakan satu tangan untuk menolak peluru.",
+    "cara_melakukan": [
+      "Berdiri dengan kaki terbuka dan berat badan bertumpu pada kaki kanan yang mengarah ke belakang serta dibengkokkan.",
+      "Badan diputar ke belakang dan direndahkan sedikit, sedangkan lengan kiri dilipat bebas di depan dada.",
+      "Putar kaki kanan ke depan lalu putar dan luruskan badan.",
+      "Luruskan kedua kaki dan tolakkan peluru."
+    ]
   },
   {
     "id": 8,
     "link_video_gdrive": "https://drive.google.com/file/d/1BnDZbdySV7HpsTj9sMuv8zAQsBEzHzRD/preview",
     "nama_materi": "Gerak menolak peluru awalan membelakangi sasaran",
-    "pengertian": "Gerak menolak peluru awalan membelakangi sasaran adalah teknik dasar dalam tolak peluru di mana atlet melakukan awalan dengan posisi membelakangi sasaran sebelum melakukan lemparan."
+    "pengertian": "Gerak menolak peluru awalan membelakangi sasaran adalah teknik dasar dalam tolak peluru di mana atlet melakukan awalan dengan posisi membelakangi sasaran sebelum melakukan tolakan.",
+    "cara_melakukan": [
+      "Berdiri dengan kaki kiri menghadap ke depan, badan tegak, dan sedikit berputar ke samping.",
+      "Berjingkat ke depan dengan badan condong ke belakang.",
+      "Kaki kanan mendarat terlebih dahulu kemudian disusul kaki kiri.",
+      "Lakukan tolakan segera setelah kaki kiri mendarat.",
+      "Latihan ini bertujuan mempelajari gerak meluncur yang disambung dengan gerakan akhir tolakan."
+    ]
   },
   {
     "id": 9,
-    "link_video_gdrive": "https://drive.google.com/file/d/182PuwXWYVQMLi48Qap-QfVFczy2Q-U6P/preview",
-    "nama_materi": "Gerakan menolak peluru dengan awalan",
-    "pengertian": "Gerakan menolak peluru dengan awalan adalah teknik dasar dalam tolak peluru di mana atlet melakukan awalan dengan posisi membelakangi sasaran sebelum melakukan lemparan."
+    "link_video_gdrive": "https://drive.google.com/file/d/1J8fAHOiqU58a8yVBj3bWpSt9BpNuaGQx/preview",
+    "nama_materi": "Gerakan menolak peluru tanpa awalan",
+    "pengertian": "Gerakan menolak peluru tanpa awalan adalah teknik dasar dalam tolak peluru di mana atlet menolak peluru tanpa melakukan awalan.",
+    "cara_melakukan": [
+      "Berdiri membelakangi arah tolakan dengan kaki kiri diluruskan ke arah tolakan.",
+      "Tarik kaki kiri ke dalam mendekati kaki belakang dan segera kembalikan ke posisi semula.",
+      "Pertahankan badan tetap menghadap ke belakang.",
+      "Lakukan tolakan dari posisi ini untuk mempelajari gerakan luncuran secara lengkap tanpa mengikutkan fase melayang."
+    ]
   },
   {
     "id": 10,
-    "link_video_gdrive": "https://drive.google.com/file/d/1f-8Md2PMv-BL2HQmzHQNf6Q1ehh3TdOK/preview",
-    "nama_materi": "Gerakan menolak peluru dengan dua tangan",
-    "pengertian": "Gerakan menolak peluru dengan dua tangan adalah teknik dasar dalam tolak peluru di mana atlet menggunakan kedua tangan untuk menolak peluru."
+    "link_video_gdrive": "https://drive.google.com/file/d/1izShfnovf3XCRPrYBj13gwS-kKPUX8TN/preview",
+    "nama_materi": "Gerakan menolak peluru tanpa awalan lanjutan",
+    "pengertian": "Gerakan menolak peluru tanpa awalan lanjutan adalah teknik dasar dalam tolak peluru di mana atlet menolak peluru tanpa melakukan awalan dengan fokus pada penguasaan gerakan meluncur.",
+    "cara_melakukan": [
+      "Ulangi gerakan luncuran dengan tarikan dan tolakan kaki kiri.",
+      "Dorongkan kaki kanan dan mendarat dengan kaki yang sama.",
+      "Ulangi siklus gerakan ini sebanyak 5–6 kali.",
+      "Usahakan tubuh tetap rendah dan lengan kiri tetap rileks.",
+      "Latihan ini bertujuan mempelajari teknik gerak meluncur."
+    ]
   },
   {
     "id": 11,
-    "link_video_gdrive": "https://drive.google.com/file/d/17wH7-E1p9xsyC7OlUWL_hHaxwZyjHs6W/preview",
-    "nama_materi": "Gerakan menolak peluru dengan satu tangan",
-    "pengertian": "Gerakan menolak peluru dengan satu tangan adalah teknik dasar dalam tolak peluru di mana atlet menggunakan satu tangan untuk menolak peluru."
+    "link_video_gdrive": "https://drive.google.com/file/d/182PuwXWYVQMLi48Qap-QfVFczy2Q-U6P/preview",
+    "nama_materi": "Gerakan menolak peluru dengan awalan",
+    "pengertian": "Gerakan menolak peluru dengan awalan adalah teknik dasar dalam tolak peluru di mana atlet melakukan gerakan tolakan secara lengkap dengan awalan untuk menghasilkan jarak tolakan yang lebih jauh.",
+    "cara_melakukan": [
+      "Lakukan gerakan tolak peluru secara lengkap.",
+      "Gerakan dilakukan secara terkontrol dengan luncuran yang pendek dan rendah.",
+      "Akhiri gerakan dalam posisi tegak.",
+      "Kombinasikan seluruh fase gerakan tolakan secara berurutan."
+    ]
   },
   {
     "id": 12,
-    "link_video_gdrive": "https://drive.google.com/file/d/1J8fAHOiqU58a8yVBj3bWpSt9BpNuaGQx/preview",
-    "nama_materi": "Gerakan menolak peluru tanpa awalan",
-    "pengertian": "Gerakan menolak peluru tanpa awalan adalah teknik dasar dalam tolak peluru di mana atlet menolak peluru tanpa melakukan awalan."
+    "link_video_gdrive": "https://drive.google.com/file/d/1WYKL89kJg550clFSJekZfqaSNbvTlIX_/preview",
+    "nama_materi": "Gerak tolak peluru keseluruhan gaya Obrien",
+    "pengertian": "Gerak tolak peluru keseluruhan gaya Obrien adalah teknik dasar dalam tolak peluru di mana atlet melakukan seluruh rangkaian gerakan menggunakan gaya Obrien."
   },
   {
     "id": 13,
-    "link_video_gdrive": "https://drive.google.com/file/d/1izShfnovf3XCRPrYBj13gwS-kKPUX8TN/preview",
-    "nama_materi": "Gerakan menolak peluru tanpa awalan lanjutan",
-    "pengertian": "Gerakan menolak peluru tanpa awalan lanjutan adalah teknik dasar dalam tolak peluru di mana atlet menolak peluru tanpa melakukan awalan."
+    "link_video_gdrive": "https://drive.google.com/file/d/1klj634WiN3Hk3GqopCyLi9LOjv-Erjfo/preview",
+    "nama_materi": "Gerak tolak peluru keseluruhan gaya Ortodoks",
+    "pengertian": "Gerak tolak peluru keseluruhan gaya Ortodoks adalah teknik dasar dalam tolak peluru di mana atlet melakukan seluruh rangkaian gerakan menggunakan gaya Ortodoks."
   }
 ]
-  

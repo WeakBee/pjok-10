@@ -1,45 +1,88 @@
 [
   {
     "id": 1,
-    "link_video_gdrive": "https://drive.google.com/file/d/1BIxDTOwQrJCSm0bmXe6hn_5y2wGghZUS/preview",
-    "nama_materi": "Fase dorongan jalan cepat",
-    "pengertian": "Fase dorongan jalan cepat adalah bagian dari teknik jalan cepat di mana atlet menggunakan kekuatan dari kaki dan tubuh untuk memberikan dorongan maksimum pada permukaan tanah, sehingga meningkatkan kecepatan dan jarak yang dicapai."
+    "link_video_gdrive": "https://drive.google.com/file/d/1bft_QNqCKH_Z4YC6lS0ZmlvLfwCetFL7/preview",
+    "nama_materi": "Gerak Start Jalan Cepat",
+    "pengertian": "Gerak start jalan cepat adalah teknik awal yang dilakukan oleh atlet untuk memulai perlombaan jalan cepat dengan posisi dan gerakan yang sesuai aturan.",
+    "cara_melakukan": [
+      "Posisi badan berdiri beberapa meter di belakang garis start.",
+      "Setelah aba-aba bersedia, maju dan tempatkan salah satu kaki di belakang garis start dengan lutut sedikit ditekuk, sedangkan kaki lainnya berada di belakang dalam posisi lurus dan rileks.",
+      "Badan agak condong ke depan, tumpuan badan berada pada kaki depan, kedua lengan bergantung lemas di samping badan.",
+      "Pandangan lurus ke depan.",
+      "Saat aba-aba 'Ya' atau bunyi pistol terdengar, segera langkahkan kaki ke depan."
+    ]
   },
   {
     "id": 2,
-    "link_video_gdrive": "https://drive.google.com/file/d/1RD3hbIo6UMTFEhbfpMNV3BfpojeVR5pT/preview",
-    "nama_materi": "Fase relaksasi jalan cepat",
-    "pengertian": "Fase relaksasi jalan cepat adalah bagian dari teknik jalan cepat di mana atlet melakukan relaksasi otot setelah fase dorongan, untuk memastikan gerakan berikutnya tetap efisien dan tidak terhambat oleh ketegangan otot."
+    "link_video_gdrive": "https://drive.google.com/file/d/1pyyJSt6P_y6NJqctpOk29y7MVtV8q2Gl/preview",
+    "nama_materi": "Langkah Kaki dan Ayunan Lengan Jalan Cepat",
+    "pengertian": "Langkah kaki dan ayunan lengan jalan cepat merupakan teknik dasar yang mengatur koordinasi gerakan kaki dan lengan agar tetap sesuai dengan aturan jalan cepat.",
+    "cara_melakukan": [
+      "Saat melangkah, salah satu kaki harus selalu kontak dengan tanah dan lurus sebelum kaki lainnya melangkah dan mendarat.",
+      "Bersamaan dengan mengangkat paha, tangan diayunkan ke depan seperti berjalan biasa namun dengan ayunan yang lebih aktif.",
+      "Pada saat kaki mendarat dan kontak dengan tanah, segera angkat paha kaki belakang ke depan. Bersamaan dengan itu, tungkai bawah dan lengan yang berlawanan diayunkan ke depan.",
+      "Saat mendaratkan kaki, awali dengan tumit kemudian lanjutkan ke ujung kaki dengan lutut tetap lurus.",
+      "Usahakan gerakan lengan dan bahu tidak terlalu tinggi.",
+      "Saat berjalan, posisi pinggul tetap rendah dan stabil. Lakukan gerakan ini secara konsisten."
+    ]
   },
   {
     "id": 3,
-    "link_video_gdrive": "https://drive.google.com/file/d/17PjawZobvSothujPjxyUIoM2SALlwMuf/preview",
-    "nama_materi": "Fase tarikan jalan cepat",
-    "pengertian": "Fase tarikan jalan cepat adalah bagian dari teknik jalan cepat di mana atlet menarik kaki yang sedang berada di udara ke depan untuk mempersiapkan langkah berikutnya, dengan tujuan meningkatkan kecepatan dan efisiensi gerakan."
+    "link_video_gdrive": "https://drive.google.com/file/d/1R9uEj5GZNbJqI-aHPP-3yypAH5U4dgrP/preview",
+    "nama_materi": "Memasuki Garis Finish Jalan Cepat",
+    "pengertian": "Memasuki garis finish jalan cepat adalah teknik mempertahankan langkah hingga melewati garis akhir perlombaan tanpa melanggar aturan jalan cepat.",
+    "cara_melakukan": [
+      "Tetap berjalan cepat hingga melewati garis finish tanpa mengurangi kecepatan sebelum garis akhir.",
+      "Setelah melewati garis finish sekitar lima meter, kecepatan dapat dikurangi secara bertahap.",
+      "Pastikan perpindahan berat badan dari satu kaki ke kaki lainnya terlihat jelas sehingga tidak terjadi gerakan melayang.",
+      "Jaga koordinasi gerakan panggul hingga melewati garis finish."
+    ]
   },
   {
     "id": 4,
     "link_video_gdrive": "https://drive.google.com/file/d/1OVPlxRpetJWEu6JkHmDm8rwknu0JV-O2/preview",
-    "nama_materi": "Fase tumpuan dua kaki jalan cepat",
-    "pengertian": "Fase tumpuan dua kaki jalan cepat adalah bagian dari teknik jalan cepat di mana atlet menumpukan berat badan pada kedua kaki untuk memastikan stabilitas dan kekuatan dalam gerakan selanjutnya."
+    "nama_materi": "Fase Tumpuan Dua Kaki Jalan Cepat",
+    "pengertian": "Fase tumpuan dua kaki jalan cepat adalah fase ketika kedua kaki secara bergantian masih berhubungan dengan permukaan tanah dalam proses perpindahan gerakan.",
+    "cara_melakukan": [
+      "Saat kedua kaki menyentuh tanah, fase dorongan sebelumnya berakhir dan dilanjutkan dengan fase tarikan.",
+      "Tarikan berlangsung lebih lama sehingga terjadi gerakan berlawanan antara bahu dan pinggul.",
+      "Pertahankan keseimbangan tubuh selama perpindahan tumpuan berlangsung."
+    ]
   },
   {
     "id": 5,
-    "link_video_gdrive": "https://drive.google.com/file/d/1bft_QNqCKH_Z4YC6lS0ZmlvLfwCetFL7/preview",
-    "nama_materi": "Gerak Start Jalan Cepat",
-    "pengertian": "Gerak Start Jalan Cepat adalah teknik awal yang dilakukan oleh atlet sebelum memulai lari cepat, dengan tujuan untuk mencapai kecepatan maksimum dalam waktu tercepat."
+    "link_video_gdrive": "https://drive.google.com/file/d/17PjawZobvSothujPjxyUIoM2SALlwMuf/preview",
+    "nama_materi": "Fase Tarikan Jalan Cepat",
+    "pengertian": "Fase tarikan jalan cepat adalah fase ketika kaki depan menarik tubuh ke depan setelah fase tumpuan selesai.",
+    "cara_melakukan": [
+      "Fase tarikan dimulai setelah gerakan sebelumnya selesai.",
+      "Gerakan dilakukan oleh kaki depan dengan bantuan kerja tumit dan koordinasi seluruh bagian tubuh.",
+      "Gerakan berakhir ketika posisi badan tepat berada di atas kaki penopang."
+    ]
   },
   {
     "id": 6,
-    "link_video_gdrive": "https://drive.google.com/file/d/1pyyJSt6P_y6NJqctpOk29y7MVtV8q2Gl/preview",
-    "nama_materi": "Langkah kaki dan ayunan lengan jalan cepat",
-    "pengertian": "Langkah kaki dan ayunan lengan jalan cepat adalah bagian dari teknik jalan cepat yang melibatkan gerakan kaki dan lengan untuk mencapai kecepatan maksimum dalam waktu tercepat."
+    "link_video_gdrive": "https://drive.google.com/file/d/1RD3hbIo6UMTFEhbfpMNV3BfpojeVR5pT/preview",
+    "nama_materi": "Fase Relaksasi Jalan Cepat",
+    "pengertian": "Fase relaksasi jalan cepat adalah fase transisi antara fase tarikan dan fase dorongan yang bertujuan menjaga efisiensi gerakan.",
+    "cara_melakukan": [
+      "Fase ini berada di antara selesainya fase tarikan dan awal fase dorongan kaki.",
+      "Posisi pinggang berada pada bidang yang sama dengan bahu.",
+      "Lengan berada dalam posisi vertikal dan sejajar di samping badan.",
+      "Jaga tubuh tetap rileks agar siap memasuki fase dorongan berikutnya."
+    ]
   },
   {
     "id": 7,
-    "link_video_gdrive": "https://drive.google.com/file/d/1R9uEj5GZNbJqI-aHPP-3yypAH5U4dgrP/preview",
-    "nama_materi": "Pembelajaran memasuki garis finish jalan cepat",
-    "pengertian": "Pembelajaran memasuki garis finish jalan cepat adalah bagian dari teknik jalan cepat yang melibatkan gerakan kaki dan lengan untuk mencapai kecepatan maksimum dalam waktu tercepat."
+    "link_video_gdrive": "https://drive.google.com/file/d/1BIxDTOwQrJCSm0bmXe6hn_5y2wGghZUS/preview",
+    "nama_materi": "Fase Dorongan Jalan Cepat",
+    "pengertian": "Fase dorongan jalan cepat adalah fase ketika kaki tumpu memberikan dorongan untuk menggerakkan tubuh ke depan secara maksimal.",
+    "cara_melakukan": [
+      "Fase ini dimulai setelah fase sebelumnya selesai dan titik pusat gravitasi tubuh berpindah ke kaki tumpu.",
+      "Kaki yang baru menyelesaikan fase tarikan mulai melakukan gerakan dorongan.",
+      "Kaki yang lain bergerak maju dan diluruskan.",
+      "Lakukan jangkauan gerak yang lebar dengan posisi pinggang bergerak maju searah langkah.",
+      "Lengan melakukan fungsi pengimbang secara alami dan berlawanan arah dengan gerakan kaki."
+    ]
   }
 ]
-  
