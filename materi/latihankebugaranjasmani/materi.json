@@ -34,18 +34,6 @@
   },
   {
     "id": 4,
-    "link_video_gdrive": "https://drive.google.com/file/d/1JCDQHnJFWCsEa635lszTLVtpLgyJjUKD/preview",
-    "nama_materi": "Aktivitas Latihan Kekuatan Lengan",
-    "cara_melakukan": [
-      "Sikap berjongkok, kedua kaki sedikit rapat, kedua tangan lurus berada di antara kedua paha dekat lutut.",
-      "Telapak tangan terbuka dan menumpu pada lantai.",
-      "Sentuhkan paha ke bagian dalam dekat siku tangan, kemudian angkat kedua kaki secara perlahan hingga lepas dari lantai.",
-      "Siku dapat berfungsi sebagai penahan pada paha.",
-      "Pertahankan sikap ini selama 5-8 detik dan lakukan berulang-ulang."
-    ]
-  },
-  {
-    "id": 5,
     "link_video_gdrive": "https://drive.google.com/file/d/1cJAhK3fMq3ga9DCx3OGRHsXYe9yT4dAE/preview",
     "nama_materi": "Aktivitas Latihan Kekuatan Otot Tungkai",
     "cara_melakukan": [
@@ -56,7 +44,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "link_video_gdrive": "https://drive.google.com/file/d/1zUN6cyMccyXaqIPXJuGQGgArWIio0tbe/preview",
     "nama_materi": "Aktivitas Latihan Daya Tahan Otot Lengan dan Bahu",
     "cara_melakukan": [
@@ -66,7 +54,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "link_video_gdrive": "https://drive.google.com/file/d/1JCDQHnJFWCsEa635lszTLVtpLgyJjUKD/preview",
     "nama_materi": "Aktivitas Latihan Daya Tahan Otot Lengan",
     "cara_melakukan": [
@@ -77,7 +65,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "link_video_gdrive": "https://drive.google.com/file/d/1J1oPTeh_nqAD7UmLFhzmD1bcHX6WRizr/preview",
     "nama_materi": "Aktivitas Latihan Daya Tahan Otot Lengan Secara Berpasangan",
     "cara_melakukan": [
@@ -89,7 +77,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "link_video_gdrive": "https://drive.google.com/file/d/14FygbqZ16Sn7B9RQee39h7Y9ixivteC3/preview",
     "nama_materi": "Aktivitas Latihan Daya Tahan Otot Lengan (Naik Palang Tunggal)",
     "cara_melakukan": [
@@ -100,5 +88,15 @@
       "Turunkan badan hingga kedua tangan kembali lurus dan badan tetap bergantung.",
       "Latihan dilakukan berulang-ulang selama 30 detik."
     ]
+  },
+  {
+    "id": 9,
+    "link_video_gdrive": "https://drive.google.com/file/d/1-kNFiOzJaXsci7fbXnVVDiLuyF_a16Wb/preview",
+    "nama_materi": "Latihan peregangan dinamis"
+  },
+  {
+    "id": 10,
+    "link_video_gdrive": "https://drive.google.com/file/d/1Qv54u3nogXjXi9lZYc1sEk7AhPJe-fAU/preview",
+    "nama_materi": "Latihan peregangan statis"
   }
 ]

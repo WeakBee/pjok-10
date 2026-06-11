@@ -255,5 +255,26 @@
       "Posisikan badan telungkup di atas tanah.",
       "Kepala mengarah ke depan dengan kedua lengan lurus untuk menyentuh base."
     ]
+  },
+  {
+    "id": 21,
+    "link_video_gdrive": "https://drive.google.com/file/d/11kISKobWyZyey5nXoLVLGMXOu9ViqMrN/preview",
+    "nama_materi": "gerak memukul bola bunt dengan stik, bola dilambungkan teman"
+  },
+  {
+    "id": 22,
+    "link_video_gdrive": "https://drive.google.com/file/d/12GjbamEHaBY4Wwjq060vlEv78s8SpiUM/preview",
+    "nama_materi": "gerak memukul bola dengan stik, bola dilambungkan teman (pelambung)",
+    "cara_melakukan": [
+      "Pemain berdiri berhadapan berjarak 4 sampai 5 meter A sebagai pelambung Pitcher Pemain B sebagai pemukul",
+      "Bola Softball dipegang oleh pemain A",
+      "Pemain A melempar bola Ke Pemain B & Pemain B Memukul Bola",
+      "Fokuskan prinsip dasar gerakan memegang stik, ayunan lengan, dan fokus terhadap sasaran bola"
+    ]
+  },
+  {
+    "id": 23,
+    "link_video_gdrive": "https://drive.google.com/file/d/16cfhoabVfsdD8lo5ZwHcic8i91aiEC4i/preview",
+    "nama_materi": "memukul bola bunt dengan stik, bola dilambungkan sendiri"
   }
 ]
