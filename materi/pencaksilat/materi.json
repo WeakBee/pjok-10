@@ -1,48 +1,97 @@
 [
   {
     "id": 1,
-    "link_video_gdrive": "https://drive.google.com/file/d/1PPt8HzzTJfO6dgAuCfra9uM-Nc0rfbxZ/preview",
-    "nama_materi": "Kuda Kuda Depan",
+    "link_video_gdrive": "https://drive.google.com/file/d/1-tnYKGBRFfVOTLdATa9yN-KZt1pMd78n/view?usp=drive_link",
+    "nama_materi": "elakan atas",
     "cara_melakukan": [
-      "Sikap tegak/sikap awal.",
-      "Kedua lengan di samping pinggang.",
-      "Kaki kiri ditarik ke belakang lurus.",
-      "Lutut kaki depan tertekuk, badan tegak.",
-      "Pandangan ke depan, kedua lengan di samping pinggang."
+      "Mengelakkan diri dari serangan pada bagian sebelah atas",
+      "Merendahkan diri dari sikap tungkai di tekuk tanpa memindahkan letak telapak kaki disertai dengan sikap tubuh dan tangan waspada"
     ]
   },
   {
     "id": 2,
-    "link_video_gdrive": "https://drive.google.com/file/d/1ANvocSUIjnY6gWO-cNM8hysZWYG5m3eh/preview",
-    "nama_materi": "Kuda Kuda Belakang",
+    "link_video_gdrive": "https://drive.google.com/file/d/1FW99ixtRMCzr0djfwnqB1NJI_fjMMuo5/view?usp=drive_link",
+    "nama_materi": "elakan bawah",
     "cara_melakukan": [
-      "Sikap tegak/sikap awal.",
-      "Kedua lengan di samping pinggang.",
-      "Kaki kiri ditarik ke belakang dengan lutut direndahkan.",
-      "Lutut kaki depan lurus.",
-      "Badan tegak.",
-      "Pandangan ke depan, kedua lengan di samping. pinggang."
+      "Mengelakkan diri dari serangan pada bagian sebelah atas",
+      "Mengangkat kedua kaki dengan sikap tungkai ditekuk, disertai dengan sikap tubuh & tangan waspada",
+      "Mendarat dengan kedua kaki"
     ]
   },
   {
     "id": 3,
-    "link_video_gdrive": "https://drive.google.com/file/d/1DAu3FSFPlOZNhuWUkt54N9G4qIjb2EVk/preview",
-    "nama_materi": "Kuda Kuda Samping",
+    "link_video_gdrive": "https://drive.google.com/file/d/1eEj-7TQYeRNS_U1UxJFdyxRxZWdFatxZ/view?usp=drive_link",
+    "nama_materi": "elakan samping",
     "cara_melakukan": [
-      "Sikap tegak/sikap awal.",
-      "Kedua lengan di samping pinggang.",
-      "Kaki kiri ditarik ke samping dengan lutut tertekuk.",
-      "Lutut kaki kanan lurus.",
-      "Badan tegak.",
-      "Pandangan ke depan, kedua lengan di samping pinggang."
+      "Mengelakkan diri dari serangan lurus depan dan atas",
+      "Dari sikap kangkang memindahkan badan ke samping dengan mengubah kuda kuda, disertai dengan sikap tubuh & tangan waspada"
     ]
   },
   {
     "id": 4,
-    "link_video_gdrive": "https://drive.google.com/file/d/1hx5ocoCf4pE6KDEJcUUKS7-aWFO9Efil/preview",
-    "nama_materi": "Pukulan Bandul",
+    "link_video_gdrive": "https://drive.google.com/file/d/1M8LE3TXLn_PZc_Qq-JPlgKYneA0PqvhX/preview",
+    "nama_materi": "gerak tendangan depan",
     "cara_melakukan": [
-       "Sikap tegak/sikap awal.",
+      "Sikap tegak.",
+      "Satu kaki diangkat, kemudian ditendangkan ke depan dengan gerak menyentakkan kaki hingga lurus.",
+      "Telapak kaki menghadap ke arah sasaran.",
+      "Kedua tangan sikap waspada di depan badan."
+    ]
+  },
+  {
+    "id": 5,
+    "link_video_gdrive": "https://drive.google.com/file/d/1yMHzmJ1k_jku1MpCyd7ZBzJ5kGnHOCX1/view?usp=drive_link",
+    "nama_materi": "pola langkah 4",
+    "cara_melakukan": [
+      "Sikap awal",
+      "Langkah tegak lurus dan kedua kaki membentuk kuda kuda, kedua lutut kaki direndahkan",
+      "Langkah Segaris dan kaki belakang membentuk kuda kuda",
+      "Langkah Serong dan kaki depan membentuk kuda kuda",
+      "Lakukan gerakan dengan tidak terputus-putus"
+    ]
+  },
+  {
+    "id": 6,
+    "link_video_gdrive": "https://drive.google.com/file/d/1MIAR8PZ9oA7OTYopSHZcnpN10X1kVwY9/view?usp=drive_link",
+    "nama_materi": "pola langkah segaris",
+    "cara_melakukan": [
+      "Sikap awal",
+      "Kedua lengan di samping pinggang",
+      "Tarik kaki kiri kebelakang segaris dengan kaki depan",
+      "Tumpuan pada kaki depan",
+      "Pandangan ke depan dan Tangan di samping pinggang"
+    ]
+  },
+  {
+    "id": 7,
+    "link_video_gdrive": "https://drive.google.com/file/d/1u3ZANPABZs2gR3uctd0x6c6XYatU0N1K/view?usp=drive_link",
+    "nama_materi": "pola langkah serong",
+    "cara_melakukan": [
+      "Sikap awal",
+      "Kedua lengan di samping pinggang",
+      "Tarik kaki kiri kesamping",
+      "Tumpuan pada kaki kiri",
+      "Kedua lengan sikap pasang atau waspada"
+    ]
+  },
+  {
+    "id": 8,
+    "link_video_gdrive": "https://drive.google.com/file/d/1xa4-ml2jUTDKmA0AiSetqvOB98e9kWO-/view?usp=drive_link",
+    "nama_materi": "pola langkah tegak lurus",
+    "cara_melakukan": [
+      "Sikap awal",
+      "Kedua lengan di samping pinggang",
+      "Tarik kaki kiri kesamping",
+      "Tumpuan pada kedua kaki",
+      "Kedua lengan sikap pasang atau waspada"
+    ]
+  },
+  {
+    "id": 9,
+    "link_video_gdrive": "https://drive.google.com/file/d/1hx5ocoCf4pE6KDEJcUUKS7-aWFO9Efil/preview",
+    "nama_materi": "pukulan bandul",
+    "cara_melakukan": [
+      "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
       "Langkahkan kaki kiri ke depan bersamaan tangan kiri memukul dari arah bawah ke atas.",
       "Sikap telapak tangan mengepal, dan tangan kanan menempel di depan dada.",
@@ -52,9 +101,9 @@
     ]
   },
   {
-    "id": 5,
+    "id": 10,
     "link_video_gdrive": "https://drive.google.com/file/d/1qPvZLBcol5oC0I0EV4IY63bEU-yCCc2M/preview",
-    "nama_materi": "Pukulan Colok",
+    "nama_materi": "pukulan colok",
     "cara_melakukan": [
       "Sikap tegak/sikap awal, kedua lengan di samping pinggang.",
       "Langkahkan kaki kanan ke depan bersamaan tangan kanan mencolok ke arah depan atas.",
@@ -65,9 +114,9 @@
     ]
   },
   {
-    "id": 6,
+    "id": 11,
     "link_video_gdrive": "https://drive.google.com/file/d/1NtEYOU8oOTOAKw-g22iyReqDODfjc0bA/preview",
-    "nama_materi": "Pukulan Dorong",
+    "nama_materi": "pukulan dorong",
     "cara_melakukan": [
       "Sikap tegak/sikap awal, kedua lengan di samping pinggang.",
       "Langkahkan kaki kanan ke depan bersamaan kedua lengan mendorong ke arah depan.",
@@ -77,11 +126,11 @@
     ]
   },
   {
-    "id": 7,
+    "id": 12,
     "link_video_gdrive": "https://drive.google.com/file/d/1O_0a0kH4i3WA1pNCGffb1U8xsNLJuZ25/preview",
-    "nama_materi": "Pukulan Kepret",
+    "nama_materi": "pukulan kepret",
     "cara_melakukan": [
-       "Sikap tegak/sikap awal.",
+      "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
       "Langkahkan kaki kanan ke depan bersamaan tangan kanan mengepret ke arah sasaran.",
       "Sikap telapak tangan mengepal, dan tangan kiri menempel di depan dada.",
@@ -91,11 +140,11 @@
     ]
   },
   {
-    "id": 8,
+    "id": 13,
     "link_video_gdrive": "https://drive.google.com/file/d/1wD4uUrs3tuo0FQPcnq9ylsxip48bGSOc/preview",
-    "nama_materi": "Pukulan Ketok",
+    "nama_materi": "pukulan ketok",
     "cara_melakukan": [
-       "Sikap tegak/sikap awal.",
+      "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
       "Langkahkan kaki kanan ke depan bersamaan tangan kanan memukul dari atas ke arah bawah.",
       "Sikap telapak tangan menghadap arah samping dalam, dan tangan kiri menempel di depan dada.",
@@ -105,9 +154,9 @@
     ]
   },
   {
-    "id": 9,
+    "id": 14,
     "link_video_gdrive": "https://drive.google.com/file/d/1hOG8-WilQ1KivtxmqO2cdYPEvc90wvCq/preview",
-    "nama_materi": "Pukulan Sanggah",
+    "nama_materi": "pukulan sanggah",
     "cara_melakukan": [
       "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
@@ -119,9 +168,9 @@
     ]
   },
   {
-    "id": 10,
+    "id": 15,
     "link_video_gdrive": "https://drive.google.com/file/d/12nxmJy77bLKleCLh6x7tVy8zriNS1xV5/preview",
-    "nama_materi": "Pukulan Sodok",
+    "nama_materi": "pukulan sodok",
     "cara_melakukan": [
       "Sikap tegak/sikap awal, kedua lengan di samping pinggang.",
       "Langkahkan kaki kiri ke depan bersamaan lengan kiri menyodok ke arah depan.",
@@ -131,9 +180,9 @@
     ]
   },
   {
-    "id": 11,
+    "id": 16,
     "link_video_gdrive": "https://drive.google.com/file/d/1r62psb8Zh0x_VPCnFe4a2ht7tQmput9l/preview",
-    "nama_materi": "Pukulan Tampar",
+    "nama_materi": "pukulan tampar",
     "cara_melakukan": [
       "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
@@ -145,60 +194,147 @@
     ]
   },
   {
-    "id": 12,
+    "id": 17,
     "link_video_gdrive": "https://drive.google.com/file/d/1JLMYB-Rz7qr-jcv-gARRq7wh47q0SCRs/preview",
-    "nama_materi": "Pukulan Tebak",
+    "nama_materi": "pukulan tebak",
     "cara_melakukan": [
       "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
       "Langkahkan kaki kanan ke depan bersamaan tangan kanan memukul ke arah depan.",
-      "Sikap telapak tangan menghadap arah pukulan, sedangkan tangan yang kiri menempel di depan dada.",
+      "Sikap telapak tangan menghadap arah pukulan, sedangkan tangan kiri menempel di depan dada.",
       "Tumpuan berat badan pada kaki kanan/depan.",
       "Lakukan kebalikannya dengan pukulan tangan kiri.",
       "Lakukan di tempat dan lanjutkan dengan bergerak maju."
     ]
   },
   {
-    "id": 13,
+    "id": 18,
     "link_video_gdrive": "https://drive.google.com/file/d/1FMFJlNVtKENzRztrSOEiOvaNiOwUUOUx/preview",
-    "nama_materi": "Pukulan Tumbuk",
+    "nama_materi": "pukulan tumbuk",
     "cara_melakukan": [
       "Sikap tegak/sikap awal.",
       "Kedua lengan di samping pinggang.",
       "Langkahkan kaki kiri ke depan bersamaan tangan kiri memukul dari atas ke arah bawah.",
       "Sikap telapak tangan mengepal, dan tangan kanan menempel di depan dada.",
-      "Tumpuan berat badan pada kaki kiri/depan, lakukan kebalikannya dengan pukulan tangan kanan.",
+      "Tumpuan berat badan pada kaki kiri/depan.",
+      "Lakukan kebalikannya dengan pukulan tangan kanan.",
       "Lakukan di tempat dan lanjutkan dengan bergerak maju."
     ]
   },
   {
-    "id": 14,
+    "id": 19,
+    "link_video_gdrive": "https://drive.google.com/file/d/1dZjjnGZtQsSzszhMKSLlWC1vuq9KTjvm/view?usp=drive_link",
+    "nama_materi": "sikap bersyukur, berdoa, atau memusatkan diri",
+    "cara_melakukan": []
+  },
+  {
+    "id": 20,
+    "link_video_gdrive": "https://drive.google.com/file/d/1ANvocSUIjnY6gWO-cNM8hysZWYG5m3eh/preview",
+    "nama_materi": "sikap kuda kuda belakang",
+    "cara_melakukan": [
+      "Sikap tegak/sikap awal.",
+      "Kedua lengan di samping pinggang.",
+      "Kaki kiri ditarik ke belakang dengan lutut direndahkan.",
+      "Lutut kaki depan lurus.",
+      "Badan tegak.",
+      "Pandangan ke depan, kedua lengan di samping pinggang."
+    ]
+  },
+  {
+    "id": 21,
+    "link_video_gdrive": "https://drive.google.com/file/d/1PPt8HzzTJfO6dgAuCfra9uM-Nc0rfbxZ/preview",
+    "nama_materi": "sikap kuda kuda depan",
+    "cara_melakukan": [
+      "Sikap tegak/sikap awal.",
+      "Kedua lengan di samping pinggang.",
+      "Kaki kiri ditarik ke belakang lurus.",
+      "Lutut kaki depan tertekuk, badan tegak.",
+      "Pandangan ke depan, kedua lengan di samping pinggang."
+    ]
+  },
+  {
+    "id": 22,
+    "link_video_gdrive": "https://drive.google.com/file/d/1DAu3FSFPlOZNhuWUkt54N9G4qIjb2EVk/preview",
+    "nama_materi": "sikap kuda kuda samping",
+    "cara_melakukan": [
+      "Sikap tegak/sikap awal.",
+      "Kedua lengan di samping pinggang.",
+      "Kaki kiri ditarik ke samping dengan lutut tertekuk.",
+      "Lutut kaki kanan lurus.",
+      "Badan tegak.",
+      "Pandangan ke depan, kedua lengan di samping pinggang."
+    ]
+  },
+  {
+    "id": 23,
+    "link_video_gdrive": "https://drive.google.com/file/d/1ctos7dfexhKuRxc5sSBvJtCqaaLYr35S/view?usp=drive_link",
+    "nama_materi": "tangkisan atas",
+    "cara_melakukan": []
+  },
+  {
+    "id": 24,
+    "link_video_gdrive": "https://drive.google.com/file/d/1IFGS0mpEffFRZJyowbl8yzoQWBF28RS5/view?usp=drive_link",
+    "nama_materi": "tangkisan bawah",
+    "cara_melakukan": []
+  },
+  {
+    "id": 25,
     "link_video_gdrive": "https://drive.google.com/file/d/15Dg8VncBM-kpCH-pC2drfxdTlLK82j1B/preview",
-    "nama_materi": "Tangkisan Dalam",
+    "nama_materi": "tangkisan dalam",
     "cara_melakukan": [
       "Berdiri tegak.",
-      "Kedua kaki rapat, kedua tumit membentuk sudut +90°.",
+      "Kedua kaki rapat, kedua tumit membentuk sudut ±90°.",
       "Kedua tangan mengepal di depan dada, dan pandangan ke depan.",
       "Geser kaki kiri ke samping kanan disertai tangkiskan tangan kanan ke arah dalam.",
-      "Posisi sikut tertekuk dan telapak tangan mengepal menghadap dalam serta kuda-kuda pada kaki depan."
+      "Posisi siku tertekuk dan telapak tangan mengepal menghadap dalam serta kuda-kuda pada kaki depan."
     ]
   },
   {
-    "id": 15,
+    "id": 26,
+    "link_video_gdrive": "https://drive.google.com/file/d/1M1o3zJ63HUaEElw7qDDw_ZI60Pjd-AZv/view?usp=drive_link",
+    "nama_materi": "tangkisan dua tangan belah/rendah",
+    "cara_melakukan": []
+  },
+  {
+    "id": 27,
+    "link_video_gdrive": "https://drive.google.com/file/d/146k2DpUGkO_YP0cuG825G0dR-3dmrf-9/view?usp=drive_link",
+    "nama_materi": "tangkisan dua tangan belah/tinggi",
+    "cara_melakukan": []
+  },
+  {
+    "id": 28,
     "link_video_gdrive": "https://drive.google.com/file/d/1XLevX9YLacKSqfIXofr6MrXNNp4-eXcw/preview",
-    "nama_materi": "Tangkisan Luar",
+    "nama_materi": "tangkisan luar",
     "cara_melakukan": [
       "Berdiri tegak.",
-      "Kedua kaki rapat, kedua tumit membentuk sudut +90°.",
+      "Kedua kaki rapat, kedua tumit membentuk sudut ±90°.",
       "Kedua tangan mengepal di depan dada, dan pandangan ke depan.",
       "Geser kaki kiri ke samping disertai tangkiskan tangan kanan ke arah luar.",
-      "Posisi sikut tertekuk dan telapak tangan menghadap dalam serta kuda-kuda pada kaki depan."
+      "Posisi siku tertekuk dan telapak tangan menghadap dalam serta kuda-kuda pada kaki depan."
     ]
   },
   {
-    "id": 16,
+    "id": 29,
+    "link_video_gdrive": "https://drive.google.com/file/d/1C2OBQ09R6ZM8ko2obH_5sz0EOYN4GlYh/view?usp=drive_link",
+    "nama_materi": "tangkisan sejajar dua tangan",
+    "cara_melakukan": []
+  },
+  {
+    "id": 30,
+    "link_video_gdrive": "https://drive.google.com/file/d/16Q6IBMMbqG3kEqFlik8sOI1SALNeV3tj/view?usp=drive_link",
+    "nama_materi": "tangkisan siku dalam/rendah",
+    "cara_melakukan": []
+  },
+  {
+    "id": 31,
+    "link_video_gdrive": "https://drive.google.com/file/d/193VXEPO_9DbpER05__pGiJa80S7Z_QCR/view?usp=drive_link",
+    "nama_materi": "tangkisan siku luar/rendah",
+    "cara_melakukan": []
+  },
+  {
+    "id": 32,
     "link_video_gdrive": "https://drive.google.com/file/d/12t4yqB1ja3C0VfeKSAyDNgl1HJfUzGqh/preview",
-    "nama_materi": "Tendangan Belakang",
+    "nama_materi": "tendangan belakang",
     "cara_melakukan": [
       "Diawali dengan sikap tegak.",
       "Satu kaki diangkat, kemudian ditendangkan ke belakang dengan gerak menyentakkan kaki hingga lurus.",
@@ -208,9 +344,21 @@
     ]
   },
   {
-    "id": 17,
+    "id": 33,
+    "link_video_gdrive": "https://drive.google.com/file/d/1akxJCdiOijYcxuQyMRwSjThnaEVrBtHN/view?usp=drive_link",
+    "nama_materi": "tendangan busur belakang",
+    "cara_melakukan": [
+      "Diawali dengan sikap tegak.",
+      "Satu kaki diangkat, kemudian ditendangkan ke arah sambing dengan gerak membusur hingga lurus.",
+      "Posisi badan menghadapi sasaran.",
+      "Telapak kaki menghadap ke arah sasaran.",
+      "Kedua tangan sikap waspada di depan badan."
+    ]
+  },
+  {
+    "id": 34,
     "link_video_gdrive": "https://drive.google.com/file/d/1rpX0yF8d8fF0F8HSo16OO9Eih4pwf_BX/preview",
-    "nama_materi": "Tendangan busur depan",
+    "nama_materi": "tendangan busur depan",
     "cara_melakukan": [
       "Diawali dengan sikap tegak.",
       "Satu kaki diangkat, kemudian ditendangkan ke depan dengan gerak membusur hingga lurus.",
@@ -220,18 +368,7 @@
     ]
   },
   {
-    "id": 18,
-    "link_video_gdrive": "https://drive.google.com/file/d/1M8LE3TXLn_PZc_Qq-JPlgKYneA0PqvhX/preview",
-    "nama_materi": "tendangan depan",
-    "cara_melakukan": [
-      "Sikap tegak.",
-      "Satu kaki diangkat, kemudian ditendangkan ke depan dengan gerak menyentakkan kaki hingga lurus.",
-      "Telapak kaki menghadap ke arah sasaran.",
-      "Kedua tangan sikap waspada di depan badan."
-    ]
-  },
-  {
-    "id": 19,
+    "id": 35,
     "link_video_gdrive": "https://drive.google.com/file/d/1ULJpjvBCO7VvbaFR3pJ2-37IM_WD5TZ7/preview",
     "nama_materi": "tendangan samping",
     "cara_melakukan": [
@@ -242,4 +379,3 @@
     ]
   }
 ]
-  
